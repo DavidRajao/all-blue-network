@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "title": "One Piece : le film",
+    "description": "La légende veut que Woonan, surnommé le Grand Pirate d'Or, ait laissé à sa mort un trésor colossal sur une petite île isolée. Nombreux sont les pirates qui convoitent cette montagne d'or. Le capitaine Eldorago et son équipage sont sans doute les plus acharnés : après avoir traqué et tué tous les anciens membres de l'équipage de Woonan, ils mettent la main sur la fameuse carte permettant de localiser l'île et le trésor du pirate disparu. Diverses circonstances conduiront l'équipage du chapeau de paille, dont les membres ont été séparés, à se mettre eux aussi à la recherche du trésor. Dans cette quête, ils seront aidés d'un jeune garçon, Tobio, désireux de retrouver Woonan pour faire partie de son équipage, ainsi que de son grand-père, Ganzo, qui semble connaître Woonan bien plus qu'il n'y paraît...",
+    "release_date": "2011-08-24",
+    "saga": {
+      "id": 1,
+      "title": "East Blue",
+      "saga_number": "1",
+      "saga_chapitre": "1 à 100",
+      "saga_volume": "1 à 12",
+      "saga_episode": "1 à 61"
+    }
+  },
+  {
+    "id": 2,
+    "title": "One Piece : L'aventure sur l'île de l'horloge",
+    "description": "Tandis que l'équipage au Chapeau de Paille profite d'une journée à la plage pour se reposer, leur bateau, le Vogue Merry, ainsi que tout leur équipement, sont subtilisés. En se lançant à la poursuite des voleurs, ils rencontrent un certain Borodo, qui se qualifie comme le \"plus grand voleur au monde\" ainsi que son petit frère Akisu. Leur objectif est de dérober une horloge, cette dernière sous le contrôle d'un certains pirate nommé Bear King, qui en plus de contrôler l'horloge, contrôle l’île qui l'abrite. Dans la poursuite de ses péripéties, l'équipage se fait surprendre et Nami se fait enlever. L'équipage poursuit ses ravisseurs, deux lieutenants de ce mystérieux Bear King, sur une île étrange, l'Île de l'Horloge.",
+    "release_date": "2011-11-23",
+    "saga": {
+      "id": 1,
+      "title": "East Blue",
+      "saga_number": "1",
+      "saga_chapitre": "1 à 100",
+      "saga_volume": "1 à 12",
+      "saga_episode": "1 à 61"
+    }
+  },
+  {
+    "id": 3,
+    "title": "One Piece : Le Royaume de Chopper, l'ile des bêtes étranges",
+    "description": "Chopper vient tout juste de rejoindre l'équipage au chapeau de paille. En s'approchant de l'île du Croissant, le Vogue Merry est projeté dans les airs par un geyser et Chopper se retrouve séparé du reste de l'équipage. Les animaux de l'île le prennent alors pour leur nouveau roi...",
+    "release_date": "2012-03-07",
+    "saga": {
+      "id": 2,
+      "title": "Alabasta",
+      "saga_number": "2",
+      "saga_chapitre": "101 à 216",
+      "saga_volume": "12 à 23",
+      "saga_episode": "62 à 143"
+    }
+  },
+  {
+    "id": 4,
+    "title": "One Piece : L'aventure sans issue",
+    "description": "L'équipage au chapeau de paille participe à une course entre pirates où tous les coups sont permis. Ils font la connaissance de Gasparde, un ancien officier de la Marine devenu pirate.",
+    "release_date": "2012-04-20",
+    "saga": {
+      "id": 2,
+      "title": "Alabasta",
+      "saga_number": "2",
+      "saga_chapitre": "101 à 216",
+      "saga_volume": "12 à 23",
+      "saga_episode": "62 à 143"
+    }
+  },
+  {
+    "id": 5,
+    "title": "One Piece : La malédiction de l'épée sacrée",
+    "description": "L'équipage au chapeau de paille fait une halte dans une ville portuaire de l'île d'Asuka. Peu après leur arrivée, Zoro disparaît. Pendant que l'équipage part à sa recherche, Sanji suit Maya, une fille originaire de l'île, vers un village. Ici, Zoro y est aperçu accompagné de soldats de la Marine. Zoro est désormais enrôlé dans la Marine et volera à la prêtresse du village des perles magiques. Derrière toute cette magouille se trouverait Saga, un ancien ami de Zoro, qui tenterait de faire revivre la terrible épée aux sept étoiles. Luffy décide donc d'aider Maya, la prêtresse du village, à contrecarrer les plans de Saga pour avoir une explication avec Zoro.",
+    "release_date": "2012-08-29",
+    "saga": {
+      "id": 2,
+      "title": "Alabasta",
+      "saga_number": "2",
+      "saga_chapitre": "101 à 216",
+      "saga_volume": "12 à 23",
+      "saga_episode": "62 à 143"
+    }
+  },
+  {
+    "id": 6,
+    "title": "One Piece : La Baron Amatsuri et l'île secrète",
+    "description": "L'équipage du chapeau de paille reçoit une étrange invitation, les conviant sur l'île de la fête (Omatsuri). Ils y font la connaissance du baron Omatsuri qui défie Luffy et ses amis à trois épreuves. Au cours des différents événements de plus en plus bizarres, l'équipage va se déchirer (Nami (la chatte voleuse) s’énerve contre Usopp (le sniper d'elite ) et Sanji (la jambe noire) s'énerve contre Zoro (le chasseur de pirate) ). Ce sera au capitaine, aidé de personnages qu'il aura rencontrés sur l'île, d'éviter à ses compagnons une mort certaine...",
+    "release_date": "2012-10-17",
+    "saga": {
+      "id": 4,
+      "title": "Water Seven / CP9",
+      "saga_number": "4",
+      "saga_chapitre": "304 à 441",
+      "saga_volume": "33 à 46",
+      "saga_episode": "207 à 325"
+    }
+  },
+  {
+    "id": 7,
+    "title": "One Piece : Le Mecha géant du château Karakuri",
+    "description": "L'équipage au chapeau de paille part à la cherche de trésors à bord d'un navire détruit et tombe sur une vieille femme enfermée dans un coffre. Cette dernière, pour motiver Luffy et ses amis à la ramener chez elle, leur raconte que son île recèlerait un trésor légendaire : une couronne en or exceptionnelle. Ils partent alors pour Mecha Island et sont attaqués par Ratchet, le chef de l'île, et ses sbires qui utilisent diverses machines avec plus ou moins de bonheur. Les chapeaux de paille les repoussent sans problème et lorsque Ratchet découvre que ces derniers sont eux aussi à la recherche de la couronne d'or et sont déjà sur une piste, il décide de collaborer avec eux.",
+    "release_date": "2013-07-05",
+    "saga": {
+      "id": 4,
+      "title": "Water Seven / CP9",
+      "saga_number": "4",
+      "saga_chapitre": "304 à 441",
+      "saga_volume": "33 à 46",
+      "saga_episode": "207 à 325"
+    }
+  },
+  {
+    "id": 8,
+    "title": "One Piece, épisode d'Alabasta : Les Pirates et la princesse du désert",
+    "description": "L'équipage du chapeau de paille et la princesse Vivi Nefertari arrivent à Alabasta, le royaume désertique. Leur objectif est de trouver les rebelles pour empêcher la guerre civile et révéler la machination orchestrée par le perfide Capitaine Corsaire Crocodile. Pour réussir, ils devront affronter les agents officiers du Baroque Works, bien décidés à les arrêter.",
+    "release_date": "2013-03-20",
+    "saga": {
+      "id": 2,
+      "title": "Alabasta",
+      "saga_number": "2",
+      "saga_chapitre": "101 à 216",
+      "saga_volume": "12 à 23",
+      "saga_episode": "62 à 143"
+    }
+  },
+  {
+    "id": 9,
+    "title": "One Piece, épisode de Chopper : Le Miracle des cerisiers en hiver",
+    "description": "Il s'agit du second film basé sur le personnage de Chopper. Il met également en scène les personnages de Franky et Nico Robin qui ne sont pas présents dans la version originale.",
+    "release_date": "2013-05-22",
+    "saga": {
+      "id": 2,
+      "title": "Alabasta",
+      "saga_number": "2",
+      "saga_chapitre": "101 à 216",
+      "saga_volume": "12 à 23",
+      "saga_episode": "62 à 143"
+    }
+  },
+  {
+    "id": 10,
+    "title": "One Piece : Strong World",
+    "description": "Luffy et son équipage naviguent sur les mers à la recherche du légendaire trésor appelé One Piece et doivent faire face à de nombreux pirates. Le plus dangereux d’entre eux, Shiki le Lion d’or, passé pour mort, réapparaît vingt ans après avoir disparu, déterminé à prendre sa revanche sur le monde entier. Pour mettre en œuvre son plan machiavélique, il kidnappe Nami, la navigatrice de Luffy et la retient prisonnière sur Strong World, l’île sauvage qu’il a créée dans le ciel. Luffy et ses compagnons vont devoir se battre contre une nature toute puissante et des animaux gigantesques pour délivrer Nami…",
+    "release_date": "2011-08-24",
+    "saga": {
+      "id": 1,
+      "title": "East Blue",
+      "saga_number": "1",
+      "saga_chapitre": "1 à 100",
+      "saga_volume": "1 à 12",
+      "saga_episode": "1 à 61"
+    }
+  },
+  {
+    "id": 11,
+    "title": "One Piece 3D : À la poursuite du chapeau de paille",
+    "description": "À bord du Thousand Sunny, la panique est totale ! Le chapeau de paille de Luffy a été volé par un étrange oiseau pendant la nuit. S'engage alors une course-poursuite entre l'équipage et le volatile pour le rattraper, ce qui leur fera croiser la route d'un vieux pirate solitaire...",
+    "release_date": "2012-07-07",
+    "saga": {
+      "id": 5,
+      "title": "Thriller Bark",
+      "saga_number": "5",
+      "saga_chapitre": "442 à 490",
+      "saga_volume": "47 à 50",
+      "saga_episode": "326 à 389"
+    }
+  },
+  {
+    "id": 12,
+    "title": "One Piece : Z",
+    "description": "Luffy et son équipage vont devoir affronter un ancien amiral de la Marine baptisé Z qui veut éliminer tous les pirates du Nouveau Monde grâce à des pierres, les Dyna Rocks, dont la puissance destructrice égale celles des Armes Antiques",
+    "release_date": "2013-05-15",
+    "saga": {
+      "id": 7,
+      "title": "Île des Hommes-Poissons",
+      "saga_number": "7",
+      "saga_chapitre": "598 à 653",
+      "saga_volume": "62 à 66",
+      "saga_episode": "517 à 574"
+    }
+  },
+  {
+    "id": 13,
+    "title": "One Piece : Gold",
+    "description": "L’équipage au Chapeau de Paille arrive sur Gran Tesoro, grande ville du divertissement, où les hommes les plus fortunés viennent jouer au casino et assister aux spectacles les plus grandioses. Gran Tesoro est contrôlé par l'empereur de l'or dont la fortune est égale à 20 % des berrys circulant dans le monde, Gild Tesoro",
+    "release_date": "2016-11-02",
+    "saga": {
+      "id": 8,
+      "title": "Dressrosa / Alliance Pirate",
+      "saga_number": "8",
+      "saga_chapitre": "654 à 801",
+      "saga_volume": "66 à 80",
+      "saga_episode": "575 à 746"
+    }
+  },
+  {
+    "id": 14,
+    "title": "One Piece : Stampede",
+    "description": "Luffy et son équipage s’apprêtent à participer au plus grand rassemblement des pirates du monde entier : le PIRATE FEST, organisé par le machiavélique Buena Festa. Les Pirates, les grands corsaires, la Marine et même l’Armée Révolutionnaire s’y retrouvent pour tenter de découvrir le trésor si convoité de Gol D.Roger. Mais pour cela, ils vont devoir combattre un ancien membre de l’équipage de Roger, Douglas Bullet, aussi appelé « l’héritier du démon ». Au cours de cet affrontement, les pires dangers attendent les Chapeaux de paille et d’étonnantes alliances voient le jour… Cette intrigue n'est guère qu'un prétexte pour lancer un combat général avec des explosions, des combats au poing, des tremblements de terre et des bombardements navals",
+    "release_date": "2019-10-09"
+  },
+  {
+    "id": 15,
+    "title": "One Piece : Red",
+    "description": "L’histoire se déroule sur une île où l'équipage de Chapeau de paille participe à un festival de musique.",
+    "release_date": "2022-08-10"
+  }
+]

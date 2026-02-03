@@ -1,0 +1,206 @@
+[
+  [
+    {
+      "name": "Crunchyroll",
+      "logo": "crunchyroll.webp",
+      "link": "https://www.crunchyroll.com/fr/series/GRMG8ZQZR/one-piece",
+      "price": 5.99,
+      "price_desc": "par mois",
+      "dispo": "Tous",
+      "description": "Plateforme de référence pour les animes avec tous les épisodes en VOSTFR et VF, disponibles 1h après la diffusion au Japon.<br>Essai gratuit de 7 jours."
+    },
+    {
+      "name": "Animation Digital Network (ADN)",
+      "logo": "adn.webp",
+      "link": "https://animationdigitalnetwork.fr/video/one-piece",
+      "price": 6.99,
+      "price_desc": "par mois",
+      "dispo": "Tous",
+      "description": "Plateforme française spécialisée proposant tous les épisodes de One Piece en VOSTFR et VF, en qualité 720p et 1080p.<br>Essai gratuit de 14 jours."
+    },
+    {
+      "name": "Netflix",
+      "logo": "netflix.webp",
+      "link": "https://www.netflix.com/title/80107103",
+      "price": 7.99,
+      "price_desc": "par mois",
+      "dispo": "1-10, 1089-1098, 1123-1132",
+      "description": "Propose une sélection d'épisodes et d'arcs de One Piece en VF et VOSTFR, en plus de la série live-action originale Netflix."
+    },
+    {
+      "name": "Disney+",
+      "logo": "disney.webp",
+      "link": "https://www.disneyplus.com/",
+      "price": 6.99,
+      "price_desc": "par mois",
+      "dispo": "Sélection variable",
+      "description": "6,99€/mois avec publicités en HD, au moins 10,99€/mois sans publicités."
+    },
+    {
+      "name": "Pluto TV",
+      "logo": "pluto.webp",
+      "link": "https://pluto.tv/fr/live-tv/6380c94947c72b0007ee9a13",
+      "price": 0,
+      "price_desc": "",
+      "dispo": "Diffusion en continu",
+      "description": "Diffusion continue d'épisodes et épisodes spéciaux en VF sans replays."
+    },
+    {
+      "name": "Molotov TV",
+      "logo": "molotov.webp",
+      "link": "https://www.molotov.tv/",
+      "price": 0,
+      "price_desc": "",
+      "dispo": "Selon programmation TV",
+      "description": "Permet de regarder One Piece gratuitement selon la programmation des chaînes TV françaises qui diffusent l'anime."
+    },
+    {
+      "name": "TF1+",
+      "logo": "tf1.webp",
+      "link": "https://www.tf1.fr/tfx/one-piece",
+      "price": 0,
+      "price_desc": "",
+      "dispo": "Diffusion en continu",
+      "description": "Diffusion continue avec replays disponibles temporairement en VF. Gratuit avec publicités, 5,99€/mois sans pubs."
+    }
+  ],
+  [
+    {
+      "name": "Manga Plus by Shueisha",
+      "logo": "manga_plus.webp",
+      "link": "https://mangaplus.shueisha.co.jp/titles/100020",
+      "price": 0,
+      "price_desc": "",
+      "dispo": "3 premiers et 3 derniers en français",
+      "description": "Application officielle de la Shueisha (éditeur de One Piece). Propose les nouveaux chapitres gratuitement le jour même de la sortie au Japon.<br>Tous les chapitres disponibles en anglais uniquement (1er visionnage grauit puis abonnement à 2,09€/mois nécessaire)."
+    },
+    {
+      "name": "Glénat Manga Max",
+      "logo": "glenat_manga.webp",
+      "link": "https://www.glenatmangamax.com/manga/one-piece-edition-originale/",
+      "price": 0,
+      "price_desc": "",
+      "dispo": "3 premiers et 3 derniers",
+      "description": "Plateforme manga de l'éditeur français Glénat proposant les chapitres en simultrad (sortie simultanée avec le Japon)."
+    },
+    {
+      "name": "Glénat",
+      "logo": "glenat.webp",
+      "link": "https://www.glenat.com/livres-one-piece/",
+      "price": 0.49,
+      "price_desc": "par chapitre",
+      "dispo": "Tous",
+      "description": "Tous les chapitres disponibles, tous les tomes disponibles à 4,99€ et 7,20€ en version papier chacun."
+    },
+    {
+      "name": "Izneo",
+      "logo": "izneo.webp",
+      "link": "https://www.izneo.com/fr/manga-et-simultrad/humour/one-piece-6773?page=1",
+      "price": 0.49,
+      "price_desc": "par chapitre",
+      "dispo": "Presque tous (les plus récents peuvent mettre du temps à l'être)",
+      "description": "Tous les tomes disponibles à 4,99€ en numérique chacun.<br>Le visionnage des 10 premières pages de chaque chapitre/tome est gratuit."
+    },
+    {
+      "name": "Amazon",
+      "logo": "amazon.webp",
+      "link": "https://www.amazon.fr/ONE-PIECE-Ebook-Kindle-Manga-Shonen/s?rh=n%3A553905011%2Cp_n_binding_browse-bin%3A901116031",
+      "price": 4.99,
+      "price_desc": "par tome (≃ 10 chapitres)",
+      "dispo": "Tous ceux en tomes",
+      "description": "Tomes numériques à 4,99€ chacun sur Kindle. Version papier neuf disponible à 7,20€ par tome."
+    },
+    {
+      "name": "Fnac",
+      "logo": "fnac.webp",
+      "link": "https://www.fnac.com/se1090/One-Piece",
+      "price": 4.99,
+      "price_desc": "par tome",
+      "dispo": "Tous ceux en tomes",
+      "description": "Tome à 4,99€ en eBook et à 7,20€ en version physique neuf."
+    },
+    {
+      "name": "Cultura",
+      "logo": "cultura.webp",
+      "link": "https://www.cultura.com/index/index-des-licences/one-piece.html",
+      "price": 4.99,
+      "price_desc": "par tome",
+      "dispo": "Tous ceux en tomes",
+      "description": "Tome à 4,99€ en eBook et à 7,20€ en version physique neuf."
+    }
+  ],
+  [
+    {
+      "name": "Animation Digital Network (ADN)",
+      "logo": "adn.webp",
+      "link": "https://animationdigitalnetwork.com/video?search=one%20piece%20film",
+      "price": 6.99,
+      "price_desc": "par mois",
+      "dispo": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14",
+      "description": "Abonnement mensuel donnant accès à tous les films disponibles en VF et VOSTFR, qualité HD.<br>Essai gratuit de 14 jours."
+    },
+    {
+      "name": "Disney+",
+      "logo": "disney.webp",
+      "link": "https://www.disneyplus.com/fr-fr/browse/entity-776554e5-1cf1-42ee-b33d-579fa35862ef",
+      "price": 6.99,
+      "price_desc": "par mois",
+      "dispo": "15",
+      "description": "One Piece Red est disponible sur Disney+ en France."
+    },
+    {
+      "name": "Canal VOD",
+      "logo": "canal-vod.webp",
+      "link": "https://www.canalplus.com/cinema/one-piece-film-red/h/20773087_40099",
+      "price": 2.99,
+      "price_desc": "en location",
+      "dispo": "15",
+      "description": "One Piece Red disponible en HD à 2,99€ pour 48h de location ou 7,99€ en achat."
+    },
+    {
+      "name": "Universciné",
+      "logo": "universcine.webp",
+      "link": "https://www.universcine.com/search?term%5B%5D=one+piece",
+      "price": 6.99,
+      "price_desc": "par mois",
+      "dispo": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14",
+      "description": "Plateforme française indépendante proposant de regarder tous les films One Piece disponibles avec un abonnement.<br>1er mois d'abonnement à 1€."
+    },
+    {
+      "name": "Ciné+ OCS",
+      "logo": "cine-ocs.webp",
+      "link": "https://www.canalplus.com/h/20773087_50002",
+      "price": 12.99,
+      "price_desc": "par mois",
+      "dispo": "15",
+      "description": "Abonnement mensuel pour accéder au service de MyCanal et visionner One Piece Red."
+    },
+    {
+      "name": "Rakuten TV",
+      "logo": "rakuten-tv.webp",
+      "link": "https://www.rakuten.tv/fr/search?q=one%20piece&content_type=movies&content_id=one-piece-film-red",
+      "price": 3.99,
+      "price_desc": "en location",
+      "dispo": "15",
+      "description": "3,99€ en location ou 7,99€ par achat."
+    },
+    {
+      "name": "FILMO",
+      "logo": "filmo.webp",
+      "link": "https://www.filmotv.fr/",
+      "price": 11.99,
+      "price_desc": "par mois",
+      "dispo": "15",
+      "description": "Service de VOD français proposant One Piece Red.<br>Essai gratuit de 14 jours disponible."
+    },
+    {
+      "name": "Fnac (format physique)",
+      "logo": "fnac.webp",
+      "link": "https://www.fnac.com/",
+      "price": 7,
+      "price_desc": "par DVD/Blu-ray",
+      "dispo": "Tous les films en format physique",
+      "description": "Achat des éditions DVD et Blu-ray des films One Piece. Coffrets contenant plusieurs films disponibles à 15€."
+    }
+  ]
+]

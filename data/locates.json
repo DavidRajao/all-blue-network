@@ -1,0 +1,1027 @@
+[
+  {
+    "id": 1,
+    "name": "ïle de Goat",
+    "region_name": "",
+    "roman_name": "Gōto-jima",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 2,
+    "name": "Shell Town",
+    "region_name": "Île Yotsuba",
+    "roman_name": "Sheruzu Taun",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 3,
+    "name": "Shimotsuki",
+    "region_name": "",
+    "roman_name": "Shimotsuki Mura",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 4,
+    "name": "Archipel des Argao",
+    "region_name": "",
+    "roman_name": "Orugan Shotō",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 5,
+    "name": "Île des Animaux Rares",
+    "region_name": "",
+    "roman_name": "Chinjū no Shima",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 6,
+    "name": "Baratie",
+    "region_name": "",
+    "roman_name": "Baratie",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 7,
+    "name": "Logue Town",
+    "region_name": "",
+    "roman_name": "Rōgutaun",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 8,
+    "name": "Île Mirrorball",
+    "region_name": "",
+    "roman_name": "Mirābōru Airando",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 9,
+    "name": "Tequila Wolf",
+    "region_name": "",
+    "roman_name": "Tekīra Urufu",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 10,
+    "name": "Royaume d'Oykot",
+    "region_name": "",
+    "roman_name": "Oikotto-Ōkoku",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 11,
+    "name": "Royaume de Goa",
+    "region_name": "Île de Dawn",
+    "roman_name": "Goa Ōkoku",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 12,
+    "name": "Grey Terminal",
+    "region_name": "Île de Dawn",
+    "roman_name": "Gurē Tāminaru",
+    "sea_name": "East Blue",
+    "affiliation_name": "Royaume de Goa"
+  },
+  {
+    "id": 13,
+    "name": "Forêt du Milieu",
+    "region_name": "Île de Dawn",
+    "roman_name": "Chūkan no Mori",
+    "sea_name": "East Blue",
+    "affiliation_name": "Royaume de Goa"
+  },
+  {
+    "id": 14,
+    "name": "Village de Fuchsia",
+    "region_name": "Île de Dawn",
+    "roman_name": "Fūsha-mura",
+    "sea_name": "East Blue",
+    "affiliation_name": "Royaume de Goa"
+  },
+  {
+    "id": 15,
+    "name": "Mont Corvo",
+    "region_name": "Île de Dawn",
+    "roman_name": "Korubo-yama",
+    "sea_name": "East Blue",
+    "affiliation_name": "Royaume de Goa"
+  },
+  {
+    "id": 16,
+    "name": "Village de Sirop",
+    "region_name": "Archipel des Gekko",
+    "roman_name": "Shiroppu-mura",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 17,
+    "name": "Arlong Park",
+    "region_name": "Archipel de Konomi",
+    "roman_name": "Āron Pāku",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 18,
+    "name": "Village de Kokoyashi",
+    "region_name": "Archipel de Konomi",
+    "roman_name": "Kokoyashi-mura",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 19,
+    "name": "Village de Gsa",
+    "region_name": "Archipel de Konomi",
+    "roman_name": "Gosa no Machi",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 20,
+    "name": "Royaume d'Ilisia",
+    "region_name": "",
+    "roman_name": "Irishia Ōkoku",
+    "sea_name": "West Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 21,
+    "name": "Ohara",
+    "region_name": "",
+    "roman_name": "Ohara",
+    "sea_name": "West Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 22,
+    "name": "Île de Toroa",
+    "region_name": "",
+    "roman_name": "Toroa",
+    "sea_name": "West Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 23,
+    "name": "Las Camp",
+    "region_name": "",
+    "roman_name": "Rasu Kyanpu",
+    "sea_name": "West Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 24,
+    "name": "Thriller Bark",
+    "region_name": "",
+    "roman_name": "Surirā Bāku",
+    "sea_name": "West Blue",
+    "affiliation_name": "Gecko Moria"
+  },
+  {
+    "id": 25,
+    "name": "Royaume de Luvneel",
+    "region_name": "",
+    "roman_name": "Rubunīru Ōkoku",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 26,
+    "name": "Île de Micqueot",
+    "region_name": "",
+    "roman_name": "Kita no Daichi Mikkyu",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 27,
+    "name": "Spider Miles",
+    "region_name": "",
+    "roman_name": "Supaidā Mairuzu",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 28,
+    "name": "Flevance",
+    "region_name": "",
+    "roman_name": "Furebansu",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 29,
+    "name": "Île de Rubeck",
+    "region_name": "",
+    "roman_name": "Rūbekku-tō",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 30,
+    "name": "Notice",
+    "region_name": "",
+    "roman_name": "Nōtisu",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 31,
+    "name": "Île de Swallow",
+    "region_name": "",
+    "roman_name": "Suwarō-tō",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 32,
+    "name": "Île de Minion",
+    "region_name": "",
+    "roman_name": "Minion-tō",
+    "sea_name": "North Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 33,
+    "name": "Royaume de Briss",
+    "region_name": "",
+    "roman_name": "Burisu Ōkoku",
+    "sea_name": "South Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 34,
+    "name": "Île Karaté",
+    "region_name": "",
+    "roman_name": "Karate no Shima",
+    "sea_name": "South Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 35,
+    "name": "Saint Reia",
+    "region_name": "",
+    "roman_name": "Sentourea",
+    "sea_name": "South Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 36,
+    "name": "Royaume Dézoizo",
+    "region_name": "",
+    "roman_name": "Torino Ōkoku",
+    "sea_name": "South Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 37,
+    "name": "Baterilla",
+    "region_name": "",
+    "roman_name": "Baterira",
+    "sea_name": "South Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 38,
+    "name": "Royaume de Solbay",
+    "region_name": "",
+    "roman_name": "Sorube Ōkoku",
+    "sea_name": "South Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 39,
+    "name": "Reverse Mountain",
+    "region_name": "Grand Line",
+    "roman_name": "Rivāsu Maunten",
+    "sea_name": "Red Line",
+    "affiliation_name": ""
+  },
+  {
+    "id": 40,
+    "name": "Cap des Jumeaux",
+    "region_name": "Grand Line",
+    "roman_name": "Futago Misaki",
+    "sea_name": "Red Line",
+    "affiliation_name": ""
+  },
+  {
+    "id": 41,
+    "name": "Mary Geoise",
+    "region_name": "",
+    "roman_name": "Seichi Marījoa",
+    "sea_name": "Red Line",
+    "affiliation_name": "Gouvernant Mondial"
+  },
+  {
+    "id": 42,
+    "name": "Île des Hommes-Poissons",
+    "region_name": "Grand Line",
+    "roman_name": "Gyojin-tō",
+    "sea_name": "Red Line",
+    "affiliation_name": ""
+  },
+  {
+    "id": 43,
+    "name": "Amazon Lily",
+    "region_name": "",
+    "roman_name": "Amazon Rirī",
+    "sea_name": "Calm Belt",
+    "affiliation_name": "Kuja"
+  },
+  {
+    "id": 44,
+    "name": "Impel Down",
+    "region_name": "",
+    "roman_name": "Inperu Daun",
+    "sea_name": "Calm Belt",
+    "affiliation_name": "Gouvernant Mondial"
+  },
+  {
+    "id": 45,
+    "name": "Ruskaina",
+    "region_name": "",
+    "roman_name": "Rusukaina",
+    "sea_name": "Calm Belt",
+    "affiliation_name": ""
+  },
+  {
+    "id": 46,
+    "name": "Whiskey Peak",
+    "region_name": "Grand Line / Cactus Island",
+    "roman_name": "Uisukī Pīku",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 47,
+    "name": "Little Garden",
+    "region_name": "Grand Line",
+    "roman_name": "Ritoru Gāden",
+    "sea_name": "Paradis",
+    "affiliation_name": "Baroque Works"
+  },
+  {
+    "id": 48,
+    "name": "Kyuja Island",
+    "region_name": "Grand Line",
+    "roman_name": "Kyūka-jima",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 49,
+    "name": "Île de Drum",
+    "region_name": "Grand Line",
+    "roman_name": "Sakura Ōkoku",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 50,
+    "name": "Royaume d'Alabasta",
+    "region_name": "Grand Line",
+    "roman_name": "Arabasuta-Ōkoku",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 51,
+    "name": "Jaya",
+    "region_name": "Grand Line",
+    "roman_name": "Jaya",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 52,
+    "name": "Long Ring Long Land",
+    "region_name": "Grand Line",
+    "roman_name": "Ronguringu Rongurando",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 53,
+    "name": "Gare de Shift",
+    "region_name": "Grand Line",
+    "roman_name": "",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 54,
+    "name": "Water Seven",
+    "region_name": "Grand Line",
+    "roman_name": "Mizu no Miyako Wōtā Sebun",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 55,
+    "name": "Enies Lobby",
+    "region_name": "Grand Line",
+    "roman_name": "Eniesu Robī",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 56,
+    "name": "Baltigo",
+    "region_name": "Grand Line",
+    "roman_name": "Barutigo",
+    "sea_name": "Paradis",
+    "affiliation_name": "Révolutionnaire"
+  },
+  {
+    "id": 57,
+    "name": "Île de Banaro",
+    "region_name": "Grand Line",
+    "roman_name": "Banaro-tō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 58,
+    "name": "Thriller Bark",
+    "region_name": "Grand Line",
+    "roman_name": "Surirā Bāku",
+    "sea_name": "Paradis",
+    "affiliation_name": "Gecko Moria"
+  },
+  {
+    "id": 59,
+    "name": "Rosy Life RIders",
+    "region_name": "Grand Line",
+    "roman_name": "Jinsei Bara-iro Raidāzu",
+    "sea_name": "Paradis",
+    "affiliation_name": "Duval"
+  },
+  {
+    "id": 60,
+    "name": "Archipel des Sabaody",
+    "region_name": "Grand Line",
+    "roman_name": "Shabondi Shotō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 61,
+    "name": "Balgimoa",
+    "region_name": "Grand Line",
+    "roman_name": "Karakuri-jima",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 62,
+    "name": "Kedétrav",
+    "region_name": "Grand Line",
+    "roman_name": "Momoiro Airando",
+    "sea_name": "Paradis",
+    "affiliation_name": "Révolutionnaire"
+  },
+  {
+    "id": 63,
+    "name": "Archipel de Boing",
+    "region_name": "Grand Line",
+    "roman_name": "Bōin Rettō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 64,
+    "name": "Harahettania",
+    "region_name": "Grand Line",
+    "roman_name": "Harahettānya",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 65,
+    "name": "Île de Kuraigna",
+    "region_name": "Grand Line",
+    "roman_name": "Kuraigana-tō",
+    "sea_name": "Paradis",
+    "affiliation_name": "Demeure de Mihawk"
+  },
+  {
+    "id": 66,
+    "name": "Île de kenzan",
+    "region_name": "Grand Line",
+    "roman_name": "Kenzan-tō",
+    "sea_name": "Paradis",
+    "affiliation_name": "Trbiu des Longs-Bras"
+  },
+  {
+    "id": 67,
+    "name": "Marine Ford",
+    "region_name": "La Route de tous les Périls",
+    "roman_name": "Marinfōdo",
+    "sea_name": "Paradis",
+    "affiliation_name": "Marine"
+  },
+  {
+    "id": 68,
+    "name": "Île de Yukiryu",
+    "region_name": "Grand Line",
+    "roman_name": "Yukiryū-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 69,
+    "name": "Pays de Wa",
+    "region_name": "Grand Line",
+    "roman_name": "Wano Kuni",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 70,
+    "name": "Foodvalten",
+    "region_name": "Grand Line",
+    "roman_name": "Fūdovaruten",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 71,
+    "name": "Whole Cake Island",
+    "region_name": "Grand Line",
+    "roman_name": "Hōru Kēki Airando",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 72,
+    "name": "Punk Hazard",
+    "region_name": "Grand Line",
+    "roman_name": "Panku Hazādo-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 73,
+    "name": "Raijin Island",
+    "region_name": "Grand Line",
+    "roman_name": "Raijin-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 74,
+    "name": "Risky Red",
+    "region_name": "Grand Line",
+    "roman_name": "Risukī Reddo-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 75,
+    "name": "Île de Mystoria",
+    "region_name": "Grand Line",
+    "roman_name": "Misutoria-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 76,
+    "name": "Pays des Fleurs",
+    "region_name": "",
+    "roman_name": "Ka no Kuni",
+    "sea_name": "West Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 77,
+    "name": "Green Bit",
+    "region_name": "Grand Line",
+    "roman_name": "Gurīn Bitto",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 78,
+    "name": "Zou",
+    "region_name": "Grand Line",
+    "roman_name": "Zō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": "Tribu des Minks"
+  },
+  {
+    "id": 79,
+    "name": "Royaume de Prodence",
+    "region_name": "Grand Line",
+    "roman_name": "Purodensu Ōkoku",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 80,
+    "name": "Royaume de Majiatsuka",
+    "region_name": "Grand Line",
+    "roman_name": "Majiatsuka Ōkoku",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 81,
+    "name": "Royaume de Rommel",
+    "region_name": "Grand Line",
+    "roman_name": "Ronmeru Ōkoku",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 82,
+    "name": "Royaume de Tontatta",
+    "region_name": "Grand Line",
+    "roman_name": "Tontatta Ōkoku",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": "Green Bit"
+  },
+  {
+    "id": 83,
+    "name": "Dressrosa",
+    "region_name": "Grand Line",
+    "roman_name": "Doresurōza",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": "Gouvernement Mondial"
+  },
+  {
+    "id": 84,
+    "name": "Royaume de Mogalo",
+    "region_name": "Grand Line",
+    "roman_name": "Mogaro Ōkoku",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 85,
+    "name": "Royaume de Doerena",
+    "region_name": "Grand Line",
+    "roman_name": "Doerēna Ōkoku",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 86,
+    "name": "Erbaf",
+    "region_name": "Grand Line",
+    "roman_name": "Erubafu",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": "L'équipage des Géants"
+  },
+  {
+    "id": 87,
+    "name": "Île de Lodestar",
+    "region_name": "Grand Line",
+    "roman_name": "Rōdosutā-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 88,
+    "name": "Laugh Tale",
+    "region_name": "Grand Line",
+    "roman_name": "Rafuteru",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 89,
+    "name": "Skypiea",
+    "region_name": "Ciel",
+    "roman_name": "Sukaipia",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 90,
+    "name": "Bilca",
+    "region_name": "Ciel",
+    "roman_name": "Biruka",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 91,
+    "name": "Weatheria",
+    "region_name": "Ciel",
+    "roman_name": "Wezaria",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 92,
+    "name": "Milky Road / La Route de Nuages",
+    "region_name": "Skypiéa",
+    "roman_name": "Mirukī Rōdo",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 93,
+    "name": "Upper Yard",
+    "region_name": "Skypiéa",
+    "roman_name": "Kami no Shima (Appā Yādo)",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 94,
+    "name": "Angel Beach",
+    "region_name": "Skypiéa",
+    "roman_name": "Enjeru Bīchi",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 95,
+    "name": "Mer de Nuages",
+    "region_name": "Skypiéa",
+    "roman_name": "Umigumo",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 96,
+    "name": "Shandora",
+    "region_name": "Skypiéa",
+    "roman_name": "Shandora",
+    "sea_name": "Mer Blanche",
+    "affiliation_name": ""
+  },
+  {
+    "id": 97,
+    "name": "Ancien Royaume",
+    "region_name": "",
+    "roman_name": "Kyodai na Ōkoku",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 98,
+    "name": "Île des Pirates",
+    "region_name": "Grand Line",
+    "roman_name": "Kaizoku Shima",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 99,
+    "name": "Nakrowa",
+    "region_name": "",
+    "roman_name": "Mugenkyō",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 100,
+    "name": "Pays des Glaces",
+    "region_name": "Grand Line",
+    "roman_name": "Kōri no Kuni",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 101,
+    "name": "Kilauea / Terre de Feu",
+    "region_name": "",
+    "roman_name": "Kirauea",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 102,
+    "name": "Île du Navire de Guerre",
+    "region_name": "",
+    "roman_name": "Gunkan-jima",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 103,
+    "name": "Île Perdu",
+    "region_name": "",
+    "roman_name": "Rosuto Airando",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 104,
+    "name": "Papanapple",
+    "region_name": "Grand Line",
+    "roman_name": "Papanappuru-tō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 105,
+    "name": "Île des Feux d'Artifice",
+    "region_name": "",
+    "roman_name": "Faiā Wākusu",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 106,
+    "name": "Île de Goat",
+    "region_name": "",
+    "roman_name": "Gōto-jima",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 107,
+    "name": "Île de Ruruka",
+    "region_name": "Grand Line",
+    "roman_name": "Ruruka-tō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 108,
+    "name": "Navarone / Base G-8",
+    "region_name": "Grand Line",
+    "roman_name": "Nabaron",
+    "sea_name": "Paradis",
+    "affiliation_name": "Marine"
+  },
+  {
+    "id": 109,
+    "name": "Hyokaido",
+    "region_name": "Grand Line",
+    "roman_name": "Hyōkaidō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 110,
+    "name": "Île de Spa",
+    "region_name": "Grand Line",
+    "roman_name": "Supa Airando-gō",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 111,
+    "name": "Brume Arc-En-Ciel",
+    "region_name": "Grand Line",
+    "roman_name": "Niji-iro no Kiri",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 112,
+    "name": "Little East Blue / Kansorn Island",
+    "region_name": "Grand Line",
+    "roman_name": "Ritoru Īsuto Burū",
+    "sea_name": "Paradis",
+    "affiliation_name": ""
+  },
+  {
+    "id": 113,
+    "name": "Île Huit Neuf",
+    "region_name": "",
+    "roman_name": "Eito Nain Tō",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 114,
+    "name": "Hand Island",
+    "region_name": "Grand Line",
+    "roman_name": "Hando Airando",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 115,
+    "name": "Mer Maubeugemour",
+    "region_name": "Grand Line",
+    "roman_name": "Mobejumūru Kaiiki",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 116,
+    "name": "Île de l'Horloge",
+    "region_name": "",
+    "roman_name": "Nejimaki-jima",
+    "sea_name": "East Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 117,
+    "name": "Île de la Couronne",
+    "region_name": "Grand Line",
+    "roman_name": "Ōkan Jima",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 118,
+    "name": "Hannabal",
+    "region_name": "Grand Line",
+    "roman_name": "Han'nabaru",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 119,
+    "name": "Elena",
+    "region_name": "Grand Line",
+    "roman_name": "Erena",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 120,
+    "name": "Partia",
+    "region_name": "Grand Line",
+    "roman_name": "Parutia",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 121,
+    "name": "Île d'Asuka",
+    "region_name": "Grand Line",
+    "roman_name": "Asuka-tō",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 122,
+    "name": "Omatsuri Island",
+    "region_name": "Grand Line",
+    "roman_name": "Omatsuri-jima",
+    "sea_name": "",
+    "affiliation_name": "Omatsuri"
+  },
+  {
+    "id": 123,
+    "name": "Mecha Island",
+    "region_name": "Grand Line",
+    "roman_name": "Meka-jima",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 124,
+    "name": "Île de Dock",
+    "region_name": "",
+    "roman_name": "Dokku-tō",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  },
+  {
+    "id": 125,
+    "name": "Endpoint",
+    "region_name": "",
+    "roman_name": "Endopointo",
+    "sea_name": "",
+    "affiliation_name": ""
+  },
+  {
+    "id": 126,
+    "name": "Egghead",
+    "region_name": "Grand Line",
+    "roman_name": "Egguheddo",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": "Gouvernement Mondial"
+  },
+  {
+    "id": 127,
+    "name": "God Valley",
+    "region_name": "",
+    "roman_name": "Goddo Barē",
+    "sea_name": "West Blue",
+    "affiliation_name": ""
+  },
+  {
+    "id": 128,
+    "name": "Onigashima",
+    "region_name": "Grand Line",
+    "description": "Onigashima est une île du Pays des Wa, située dans le Nouveau Monde. Il s'agit à la fois de la résidence de l'Empereur Kaidou et du QG de L'Équipage aux Cent Bêtes. L'équipage l'a nommée ainsi après l'avoir colonisé il y a moins de 25 ans.<br><br>Dans le cadre du Plan pour une Nouvelle Onigashima, l'île a été déplacée de son emplacement en mer par Kaidou, qui prévoit de la déplacer vers la Capitale des fleurs.",
+    "roman_name": "Onigashima",
+    "sea_name": "Nouveau Monde",
+    "affiliation_name": ""
+  }
+]

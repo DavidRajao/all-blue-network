@@ -1,0 +1,1840 @@
+[
+  {
+    "id": 1,
+    "name": "Fruit du Gum-Gum",
+    "description": "Le Gomu Gomu no Mi, aussi connu sous le nom du Fruit du Gum-Gum en français, est un Fruit du Démon de type Paramecia qui confère au corps de son utilisateur les mêmes propriétés que le caoutchouc, ce qui fait du mangeur un Homme Élastique (ゴム人間, Gomu Ningen). Ce fut autrefois un trésor que Shanks et son équipage avaient pris à un convoi du Gouvernement Mondial, protégé par le CP9, mais qui fut accidentellement mangé par Monkey D. Luffy",
+    "roman_name": "Gomu Gomu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/5665e89442022d4c0e7684c650dc6d6b.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 2,
+    "name": "Fruit de la Fragmentation",
+    "description": "Permet de séparer son corps en plusieurs parties et de faire léviter ces dernières. Les parties peuvent voler dans un secteur de 200 mètres de diamètre autour des pieds. Ces derniers, quant à eux, ne peuvent pas léviter (ils peuvent cependant marcher). Ce pouvoir rend l'utilisateur insensible aux armes tranchantes. N'importe quelle partie de l'utilisateur restera tout de même sensible à la douleur qu'éprouvent les autres parties détachées du corps.",
+    "roman_name": "Bara Bara no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/ce8729339b41da72e8e0f81dd7f71eee.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 3,
+    "name": "Fruit Glisse-Glisse",
+    "description": "Lisse la peau de l'utilisateur et le rend, par conséquent, plus beau. De plus, sa peau devient ultra-glissante et de ce fait, dévie les objets touchant son corps.",
+    "roman_name": "Sube Sube no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/8eb2a1bcdebacd9077ce4881a2493e2d.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 4,
+    "name": "Fruit du Kilo-Kilo",
+    "description": "Permet de faire varier la masse de l'utilisateur entre un poids plume et 10 tonnes. Il est à noter que l'utilisateur ne change pas de volume lorsqu'il change sa masse.",
+    "roman_name": "Kilo Kilo no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/d11cc6067afe9f178c578d0871096bbd.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 5,
+    "name": "Fruit Boum-Boum",
+    "description": "L'utilisateur peut faire exploser n'importe quelle partie de son corps y compris ses crottes de nez et son haleine, le rendant insensible aux explosions. Son utilisateur peut combiner son pouvoir avec un pistolet qu'il recharge en soufflant à l'intérieur.",
+    "roman_name": "Bomu Bomu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 6,
+    "name": "Fruit Des Éclosions",
+    "description": "Permet de faire pousser des parties de son corps (ou même de créer des clones) partout où son utilisateur le désire, même sur une autre personne. Il peut assembler plusieurs exemplaires du même membre afin de créer, par exemple, des mains géantes ou de créer des clones de lui-même pour tromper ses adversaires.",
+    "roman_name": "Hana Hana no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/5f82c2c5df83335a916f98dc3b09eade.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 7,
+    "name": "Ciro-Fruit",
+    "description": "Permet de produire une cire durcissant rapidement et qui peut se modeler en n'importe quelle forme. Cette cire devient très résistante lorsqu'elle est durcie mais reste toujours aussi vulnérable à la chaleur que de la cire normale. Il est à noter qu'elle peut bloquer la plupart des poisons.",
+    "roman_name": "Doru Doru no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/79c5de9660c570daf6e43b8c14df7ef6.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 8,
+    "name": "Fruit du Glouton",
+    "description": "Permet à son utilisateur de manger n'importe quoi et d'intégrer ces aliments à son propre corps. Par exemple, s'il mange un canon, sa langue peut se transformer en un vrai canon. Il peut également faire fusionner des êtres qu'il a mangés et s'auto-ingérer afin de mincir.",
+    "roman_name": "Baku Baku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/aa8f6a1e4770332fd38f90a71581ec79.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 9,
+    "name": "Travesti-Fruit",
+    "description": "Permet de modifier son apparence en se touchant le visage de la main droite et de reprendre son apparence normale en se touchant son visage de la main gauche. Il suffit de toucher une personne une seule fois pour que son apparence soit mémorisée pour toujours. Son utilisateur peut aussi faire des assemblages de parties de personnes différentes mais il est incapable d'attaquer s'il ne possède pas son visage et son propre corps.",
+    "roman_name": "Mane Mane no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 10,
+    "name": "Fruit de l'Oursin",
+    "description": "Permet de transformer toutes les parties de son corps (même ses cheveux) en piques qui sont assez solides pour transpercer des murs de pierre. Ces piques sont aussi utiles pour réaliser des techniques d'acupuncture qui servent à augmenter la masse musculaire de son propre utilisateur.",
+    "roman_name": "Toge Toge no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/dbeda9afbf6c54e261d6a61e3e081751.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 11,
+    "name": "Fruit Tailladant",
+    "description": "Permet de transformer des parties de son corps en acier tranchant. Son possesseur peut, par exemple, transformer son corps en lames tranchantes pour qu'elle le protège ou ses bras pour qu'ils deviennent des lames acérées.",
+    "roman_name": "Supa Supa no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/fbed871b2850a8feb187b5186a5a35ce.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 12,
+    "name": "Fruit du Séquestre",
+    "description": "Permet à son utilisateur d'emprisonner ses adversaires en entrant en contact avec ceux-ci. Ces liens de constriction sont constitués d'une substance durcissant rapidement.",
+    "roman_name": "Ori Ori no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 13,
+    "name": "Fruit du Ressort",
+    "description": "Permet de transformer des parties de son corps en ressorts qui servent à faire rebondir l'utilisateur à une vitesse impressionnante et à augmenter la puissance de ses coups.",
+    "roman_name": "Bane Bane no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 14,
+    "name": "Fruit du Fil",
+    "description": "Permet de prendre le contrôle de quelqu'un et de s'en servir comme d'une marionnette ainsi que de découper aisément personnes et objets de diverses tailles dans un grand périmètre. Il permet également à son utilisateur de s'accrocher aux nuages pour 'voler', de relier plusieurs fils entre eux pour créer un fouet tranchant et en version 'combinée' sous forme de boule pour 'tirer' des balles de fils à la manière d'un tir de pistolet. Et pour finir, il peut créer un clone à partir de ficelles qui a les mêmes capacités que son propriétaire et ce clone est insensible aux armes blanches. Grâce à son fruit, son utilisateur peut s'administrer les premiers soins en recousant ses organes et ses plaies ouvertes.",
+    "roman_name": "Ito Ito no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/0f40216451f24b2e66c9af2415f97548.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 15,
+    "name": "Fruit Ramollo",
+    "description": "Permet d'émettre un rayon qui ralentit le mouvement de toute masse pendant 30 secondes. Ce rayon peut être réfléchi à l'aide d'un miroir et son utilisateur n'est pas immunisé contre les effets de ses rayons.",
+    "roman_name": "Noro Noro no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 16,
+    "name": "Fruit du Portier",
+    "description": "Permet à son utilisateur de transformer en porte tout ce qu'il touche : que ce soit un mur, une partie d'un corps humain ou le vide. Dans ce dernier cas, l'utilisateur 'disparait' dans une autre dimension et peut se rendre n'importe où il le désire en ouvrant une porte à un endroit déterminé.",
+    "roman_name": "Doa Doa no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 17,
+    "name": "Fruit des Bulles",
+    "description": "Permet à son possesseur de produire des bulles de savon qui nettoient tout jusqu'à retirer la force elle-même. Permet aussi de savonner la peau et de rendre l'ennemi tellement glissant qu'il ne peut presque plus se mouvoir ou tenir quoi que ce soit dans ses mains.",
+    "roman_name": "Awa Awa no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/07ea2172d8a86e7db1b8355778a3ff92.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 18,
+    "name": "Fruit des Baies",
+    "description": "Permet à son utilisateur de diviser son corps en parties qui ressemblent à des baies et donc de rebondir sur toutes surfaces. Il est donc immunisé contre les coups de poing et les armes contondantes.",
+    "roman_name": "Beri Beri no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 19,
+    "name": "Fruit de la rouille",
+    "description": "Permet à son possesseur de faire rouiller tout ce qu'il touche. Il peut donc rouiller toutes armes blanches ou membres d'êtres vivants.",
+    "roman_name": "Sabi Sabi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 20,
+    "name": "Fruit des Roues",
+    "description": "Permet à son propriétaire de transformer des parties de son corps en roues et de les faire tourner à grande vitesse.",
+    "roman_name": "Shari Shari no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 21,
+    "name": "Fruit de la Résurrection",
+    "description": "Permet au propriétaire de revenir à la vie une fois mort (ce pouvoir ne marche qu'une seule fois). Son possesseur peut faire sortir son âme de son corps pour lui faire traverser les murs et la faire revenir dans son corps comme il le souhaite. De même, si on lui coupe la tête, son fruit lui permet de ramener celle-ci sur ses épaules par la seule force de sa volonté (l'âme est toujours reliée à son corps). Si son pouvoir est combiné à une épée, il peut blesser en gelant tout ennemi qu'il touche grâce au froid glacial des tréfonds que son âme apporte à son épée.",
+    "roman_name": "Yomi Yomi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/56fc9cdf59bcd8a6e53b3e7c31e11005.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 22,
+    "name": "Fruit de l'Ombre",
+    "description": "Permet à son utilisateur de contrôler les ombres. Il peut couper les ombres de n'importe qui à l'aide d'une paire de ciseaux et les ombres ainsi retirées peuvent être enfermées dans des corps inertes, ce qui donne naissance à des zombies possédant les techniques de combat de la personne à qui appartenait l'ombre. Si les ombres sont enfermées dans le corps d'un être vivant, elles ne peuvent rester que peu de temps et ceci, en fonction de la force mentale de celui-ci. Pour exemple, son utilisateur en a consommé jusqu'à 1000. Il est à noter aussi que son utilisateur peut utiliser sa propre ombre et la rendre tangible. Il peut donc utilisé son ombre afin de se téléporter ou se protéger des attaques physiques.",
+    "roman_name": "Kage Kage no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/de5dadf8502878ee5354b1c952b74f8b.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 23,
+    "name": "Fruit de l'Ectoplasme",
+    "description": "Permet à son utilisateur de créer des fantômes ayant diverses capacités comme saper le moral ou exploser. Il permet également à son utilisateur de se rendre intangible : son utilisateur peut donc flotter dans l'air et traverser les murs mais a le gros désavantage de laisser son corps inerte sans défense.",
+    "roman_name": "Horo Horo no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 24,
+    "name": "Fruit de l'Invisibilité",
+    "description": "Permet à son utilisateur de se rendre invisible ainsi que tout ce qu'il touche (êtres vivants, armes à feu, etc.)",
+    "roman_name": "Suke Suke no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 25,
+    "name": "Fruit des Coussinets",
+    "description": "Permet à l'utilisateur, grâce à des coussinets qu'il détient aux mains, de projeter de puissantes ondes de chocs, de se téléporter ou bien de repousser tout et n'importe quoi tels que la douleur et les attaques physiques. Son utilisateur peut 'expédier' ses adversaires n'importe où il le désire.",
+    "roman_name": "Nikyu Nikyu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/16cd53be2d987c15311b7f5e55deb3c2.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 26,
+    "name": "Magnéto-Fruit",
+    "description": "Permet à l'utilisateur de manipuler les forces magnétiques, pouvant ainsi attirer les métaux à lui mais également les repousser. Il peut également créer un golem de métaux lorsqu'une grande quantité est réunie.",
+    "roman_name": "Jiki Jiki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/79014303ec2ac76ecdefdb8b19928fb9.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/a2aa4468a770539b2ec7045d8517744c.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Fruit du Bistouri",
+    "description": "Ce fruit permet à celui qui le mange de créer une sphère dans laquelle il peut tout faire comme inter-changer quelque chose avec une autre ou allonger les portées de ses coups de sabre. Il peut également découper ses victimes sans les tuer ou annuler la gravité de tout ce qui est dans la sphère. Son utilisateur peut même aller jusqu'à ôter le cœur d'une personne en la laissant en vie ou échanger les personnalités de plusieurs personnes. Ce fruit est considéré comme le « fruit du démon ultime » en raison de sa capacité unique d'accorder à une autre personne une jeunesse éternelle en échange de la vie de l'utilisateur.",
+    "roman_name": "Ope Ope no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/9e630a35c5acb817bfea06e65d72b661.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 28,
+    "name": "Fruit du Château",
+    "description": "Permet à son utilisateur de devenir un homme-château dont les quelques particularités sont les suivantes : toute personne qui se trouve à une certaine portée de lui (délimité par une zone rouge) est miniaturisée et celle qui en sort retrouve sa taille normale, le détenteur peut créer des meurtrières dans son corps afin de permettre aux assiégés de « défendre la forteresse ». L'intérieur de l'utilisateur est composé de différentes pièces où les membres peuvent y vivre. L'utilisateur peut également se miniaturiser pour y rejoindre ses invités mais celui-ci laisse son corps physique inerte. Il peut remplacer ses jambes par un système de chenilles afin de se déplacer plus aisément ou bien se transformer en une sorte de golem fortifié armé pouvant servir de refuge à ses alliés.",
+    "roman_name": "Shiro Shiro no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/0dfd5dd587490832579f7ea6e3384e92.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 29,
+    "name": "Fruit de la Paille",
+    "description": "Permet à son utilisateur de produire et de manipuler la paille à sa guise. Il peut aussi utiliser la paille afin de rediriger les dégâts.",
+    "roman_name": "Wara Wara no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 30,
+    "name": "Fruit du Son",
+    "description": "Permet à l'utilisateur de transformer les parties de son corps en instruments et de s'en servir comme arme.",
+    "roman_name": "Oto Oto no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 31,
+    "name": "Fruit de la passion",
+    "description": "Permet à son possesseur d'utiliser l'amour comme une arme fatale à l'aide de divers moyens. Ces techniques ont pour but de pétrifier les personnes ou objets et ont toutes une forme de cœur (rayons, baisers perçants, coups de pieds, etc.). Ce pouvoir ne fonctionne que sur les personnes ayant une attirance (même infime) pour l'utilisateur. Lorsque l'utilisateur inverse le processus, la victime n'a aucun souvenir du temps passé pendant sa pétrification.",
+    "roman_name": "Mero Mero no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/92861a17d3bcea41ca87359b360cea52.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Fruit du Poison",
+    "description": "Permet à son utilisateur de sécréter une panoplie de poisons et de gaz toxiques. Les effets de ces venins changent selon les besoins de l'utilisateur. Ce dernier peut donner n'importe quelle forme à ses créations et il peut aussi se recouvrir entièrement le corps avec du poison pour se protéger.",
+    "roman_name": "Doku Doku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 33,
+    "name": "Fruit des Hormones",
+    "description": "Permet à son utilisateur de sécréter des hormones et de les injecter à lui-même ou à quelqu'un d'autre. Ces hormones peuvent modifier le corps de la personne à qui on les a injectés : on peut par exemple modifier son sexe. Ces hormones peuvent aussi soigner, revitaliser (adrénaline) ou grossir une partie du corps.",
+    "roman_name": "Horu Horu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 34,
+    "name": "Fruit des Ciseaux",
+    "description": "Permet à son utilisateur de transformer ses mains en ciseaux qui coupent absolument n'importe quoi, des feuilles de papier jusqu'aux murs de briques. Toute matière découpée peut être maniée très facilement.",
+    "roman_name": "Choki Choki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 35,
+    "name": "Fruit du Tremblement",
+    "description": "Permet à son utilisateur de créer des ondes sismiques pour ainsi provoquer des tremblements de terre ou fissures (même dans l'air ambiant) qui détruisent tout ce qui se trouve dans leurs zones d'effet. La force de ces ondes varie selon le désir de l'utilisateur et ces ondes peuvent être démesurément grandes. Le pouvoir de ce fruit est tellement puissant qu'il peut aussi provoquer des tsunamis ou des abîmes. Les ondes sismiques peuvent recouvrir les armes pour décupler la puissance de leurs coups.",
+    "roman_name": "Gura Gura no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 36,
+    "name": "Fruit Étincelant",
+    "description": "Permet à son utilisateur de transformer son corps en diamant. Il possède alors une résistance hors du commun.",
+    "roman_name": "Kira Kira no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 37,
+    "name": "Fruit de la Poche",
+    "description": "Permet à l'utilisateur de créer des poches sur son corps pour y stocker des objets.",
+    "roman_name": "Poke Poke no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 38,
+    "name": "Fruit de la Lessive",
+    "description": "Permet à son utilisateur de laver les gens de leurs cœurs impurs et de les étendre sur un fil. Ces personnes ne peuvent ensuite plus se mouvoir.",
+    "roman_name": "Woshu Woshu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 39,
+    "name": "Fruit Flottant",
+    "description": "Il permet à son utilisateur de soulever des objets en contrôlant la gravité. Vu que son utilisateur a des épées à la place de ses jambes, il peut également s'envoler. (Même si ce fruit est apparu dans un film, son utilisation a été démontrée dans le chapitre 0 de One Piece expliquant l'évasion de Shiki de la prison d'Impel Down).",
+    "roman_name": "Fuwa Fuwa no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 40,
+    "name": "Fruit du Dans-le-mille",
+    "description": "Permet à son utilisateur de viser une « cible » à n'importe quel moment et à n'importe quel endroit avec n'importe quel objet, qu'il soit animé ou pas. Son utilisateur est limité à une cible par main en la touchant simplement : celles-ci sont mémorisées jusqu'à ce qu'il décide d'en toucher une autre.",
+    "roman_name": "Mato Mato no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 41,
+    "name": "Fruit du Vêtement",
+    "description": "Permet à son utilisateur de créer des vêtements à partir de feuilles ou de pierres.",
+    "roman_name": "Fuku Fuku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 42,
+    "name": "Armo-Fruit",
+    "description": "Permet à son utilisateur de transformer des parties de son corps en armes de tout genre (revolver, canon, sabre, missile…).",
+    "roman_name": "Buki Buki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 43,
+    "name": "Fruit du tournis",
+    "description": "Permet à son utilisateur de rendre toutes les parties de son corps rotatives lui permettant donc de voler dans les airs et de produire des ouragans en faisant tourner à pleine vitesse une partie précise de son corps.",
+    "roman_name": "Guru Guru no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 44,
+    "name": "Fruit du Poisse-Poisse",
+    "description": "le corps de celui qui le mange peut générer du mucus à volonté. Ce mucus a les caractéristiques suivantes : collant, adhérent et inflammable. Il peut donc utiliser son mucus pour agripper des objets, coller à toutes les surfaces ou bien l'enflammer.",
+    "roman_name": "Beta Beta no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 45,
+    "name": "Fruit du Joujou",
+    "description": "Permet de transformer n'importe quelle personne en jouet en la touchant simplement. Les personnes transformées n'ont plus le contrôle de leur corps et obéissent aux ordres qu'on leur donne (du moins, si l'utilisateur leur en a donné). Les effets de ce fruit arrêtent la croissance de son utilisateur au moment où il le mange. Les personnes transformées en jouet tombent dans l'oubli, tous les souvenirs liés à elles disparaissent et elles sont préservées du vieillissement. Si l'utilisateur tombe inconscient, toutes les personnes redeviennent elles-mêmes et les souvenirs des personnes qui les avaient oubliées refont surface.",
+    "roman_name": "Hobi Hobi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 46,
+    "name": "Fruit de la Gravité",
+    "description": "Permet à l'utilisateur de manipuler la gravité autour d'un endroit précis en envoyant des forces gravitationnelles comme des blocs rocheux, des météorites ou en exerçant une force contre un adversaire au sol.",
+    "roman_name": "Zushi Zushi no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 47,
+    "name": "Fruit de la Barrière",
+    "description": "Permet à son utilisateur de générer des barrières presque invisibles lui permettant de renvoyer ou de bloquer toute attaque. Ses barrières peuvent prendre toute une série de formes diverses (raquette, escaliers, ...).",
+    "roman_name": "Bari Bari no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 48,
+    "name": "Fruit de la Couture",
+    "description": "Permet à son utilisateur de tout coudre et découdre sur des surfaces planes. Ces coutures sont assez résistantes pour tenir des personnes 'accrochées' au sol.",
+    "roman_name": "Nui Nui no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 49,
+    "name": "Fruit du Regard",
+    "description": "Permet à son utilisateur de lire dans l'esprit des gens, de transmettre ses propres souvenirs à quelqu'un d'autre ainsi que de générer des larmes de formes variées (ex : des larmes en formes de baleines ayant suffisamment de puissance pour pulvériser des caisses en bois et assommer un groupe de personnes). Il permet également à son utilisateur d'observer des évènements qui ont lieu loin de lui en « transmutant » son regard en oiseau pour observer depuis les cieux tout ce qui se passe dans un périmètre donné.",
+    "roman_name": "Giro Giro no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 50,
+    "name": "Fruit de l'Art",
+    "description": "Permet à son utilisateur de créer une brume qui transforme tout ce qu'elle touche en œuvre-d'art. Tout être ou objet transformé en œuvre-d'art perdent leur fonctionnalité originelle.",
+    "roman_name": "Ato Ato no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 51,
+    "name": "Fruit de la Pelisse",
+    "description": "Permet à son utilisateur de s'approprier les capacités physiques et mentales d'un être vivant (humain ou animal) en le portant à la même manière qu'une veste.",
+    "roman_name": "Jake Jake no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 52,
+    "name": "Fruit du Paf-Paf",
+    "description": "Permet de gonfler jusqu'au point de rupture un objet et de provoquer son explosion ainsi que de faire exploser son utilisateur par simple contact.",
+    "roman_name": "Pamu Pamu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 53,
+    "name": "Fruit du Barbotage",
+    "description": "Permet à l'utilisateur de liquéfier toutes surfaces autour de lui. Il peut donc nager dans des surfaces telles que les murs ou même le sol.",
+    "roman_name": "Sui Sui no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 54,
+    "name": "Fruit du Tonne-Tonne",
+    "description": "Son utilisateur peut flotter dans l'air et ensuite atterrir sur l'ennemi afin de l'écraser au sol, très rapidement.",
+    "roman_name": "Ton Ton no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 55,
+    "name": "Fruit du Vole-au-Vent",
+    "description": "Permet de transformer la consistance dure d'un objet comme une cape d'acier en celle d'un drapeau. Son utilisateur peut même rendre un sabre 'mou' et ensuite le re-solidifier une fois que celui-ci aura pris une forme différente. Il peut aussi devenir lui-même un drapeau capable de flotter.",
+    "roman_name": "Hira Hira no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 56,
+    "name": "Fruit de la Caillasse",
+    "description": "Permet à son détenteur de se fondre dans la pierre et de créer toute forme qu'il désire comme un clone de lui-même exponentiellement plus grand. Il peut modifier et contrôler à volonté la forme de tout objet ou structure constitués de roches.",
+    "roman_name": "Ishi Ishi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 57,
+    "name": "Fruit du Pinceau",
+    "description": "Permet à l'utilisateur de générer de l'encre à partir de son corps et de transformer les dessins créés avec cette encre en objets tridimensionnels et réalistes.",
+    "roman_name": "Fude Fude no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 58,
+    "name": "Fruit de la Sourdine",
+    "description": "Permet de créer des barrières insonorisées permettant d'annuler totalement les sons qu'il produit (ou depuis une zone où il se trouve) et ceux venant de l'extérieur.",
+    "roman_name": "Nagi Nahi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 59,
+    "name": "Fruit de la Guérison",
+    "description": "Permet de soigner temporairement tout être vivant par l'intermédiaire des pleurs de son utilisateur. Il peut soigner de manière définitive des blessés en prenant un peu d'énergie vitale de personnes en bonne santé (cette énergie prend la forme d'une fleur de pissenlit). Par extension, son utilisateur peut réparer tout objet mais au détriment de son espérance de vie.",
+    "roman_name": "Chiyu Chiyu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 60,
+    "name": "Fruit des Âmes",
+    "description": "Permet de manipuler l'âme des êtres humains au souhait de l'utilisateur. Ce dernier peut introduire une âme dans un objet ou un animal pour le rendre vivant afin de l'humaniser, c'est-à-dire de leur donner une conscience et le don de parole. Ces êtres sont appelés les 'Homies'. L'utilisateur peut aussi répartir sa propre âme en fragments qui vivent sous forme d'avatar du mangeur du fruit. Ces avatars ont pour rôle principal de récolter des fragments de vies d'êtres vivants afin de les redistribuer à son possesseur. Les personnes n'ayant aucune peur à l'idée de mourir ou possédant un pouvoir psychique sont plus résistantes à ce fruit.",
+    "roman_name": "Soru Soru no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 61,
+    "name": "Fruit du Miroir",
+    "description": "Permet à son utilisateur de pouvoir répéter les gestes de ses adversaires et de réfléchir les attaques de ces derniers. Il est également possible de refléter des personnes sur des animaux. Les êtres vivants peuvent être capturés dans les miroirs et se retrouver dans un monde où les miroirs sont uniquement les points d'accès à ce monde. Ces miroirs sont des sources d'informations pour son utilisateur et les personnes se trouvant actuellement dans le monde « miroir » à la suite de questions qui peuvent être posées par ceux-ci (par exemple, communication de la position d'une personne, etc.)",
+    "roman_name": "Mira Mira no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 62,
+    "name": "Fruit de la Léchouille",
+    "description": "Permet à l'utilisateur de transformer des objets en sucreries pour ensuite les lécher. Il peut aussi transformer en sucrerie des êtres vivants, ce qui aura pour effet de les tuer. De plus, son utilisateur peut créer des objets complexes telles que des escalators ayant les mêmes fonctions que leur versions 'réelles'. En contrepartie, les sucreries peuvent fondre après un certain laps de temps à cause de la chaleur ou du feu et également être mangées.",
+    "roman_name": "Pero Pero no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 63,
+    "name": "Fruit du Biscuit",
+    "description": "Permet à l'utilisateur de produire et de manipuler des biscuits à sa guise. Son utilisateur peut se couvrir de biscuits afin de se créer un alter-ego différent de lui-même et créer une multitude de copie de ce même alter-ego. Le biscuit peut être rendu inefficace via l'utilisation d'eau et il est donc plus facile pour un ennemi de les manger.",
+    "roman_name": "Bisu Bisu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 64,
+    "name": "Fruit de la Crème",
+    "description": "Permet à l'utilisateur de produire et de manipuler de la crème à sa guise.",
+    "roman_name": "Kuri Kuri no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 65,
+    "name": "Fruit du Beurre",
+    "description": "Permet à l'utilisateur de produire et de manipuler du beurre à sa guise.",
+    "roman_name": "Bata Bata no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 66,
+    "name": "Fruit du Livre",
+    "description": "Permet à l'utilisateur de manipuler des livres à sa guise et de créer des dimensions à l'intérieur des pages du livre pour y piéger des objets ou des êtres vivants. Toutefois, brûler les livres libérera ceux confinés à l'intérieur.",
+    "roman_name": "Buku Buku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 67,
+    "name": "Fruit du Presse-Presse",
+    "description": "Permet à l'utilisateur de transmettre et de retirer du liquide aux objets et aux êtres vivants.",
+    "roman_name": "Shibo Shibo no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 68,
+    "name": "Fruit des Souvenirs",
+    "description": "Permet à l'utilisateur d'extraire la mémoire d'une personne sous le format d'une pellicule. Par ce biais, il peut manipuler la mémoire de la personne en soustrayant des souvenirs indésirables et/ou en insérant des souvenirs pris précédemment à d'autres victimes. Lorsque certaines personnes deviennent amnésiques, son utilisateur peut leur faire récupérer momentanément leurs mémoires.",
+    "roman_name": "Memo Memo no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 69,
+    "name": "Fruit du Riz Gluant",
+    "description": "Permet à l'utilisateur de générer du riz gluant à volonté. Il peut ainsi bloquer les attaques de n'importe qui et également les piéger dans une grande quantité de riz gluant. De plus, il possède plusieurs similarités avec le fruit du Gum Gum, comme l'élongation des membres ou le blocage de tous tirs d'armes à feu. Néanmoins, la substance se dissout après avoir reçu une grande quantité d'eau. C'est un Paramecia spécial.",
+    "roman_name": "Mochi Mochi no Mi",
+    "type": "Paramecia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 70,
+    "name": "Fruit de la Lampe",
+    "description": "Permet à l'utilisateur de faire sortir un puissant génie de son corps et d'attaquer ses adversaires avec lui. Ce génie est armé d'une hallebarde.",
+    "roman_name": "Hoya Hoya no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 71,
+    "name": "Fruit de la Chaleur",
+    "description": "Permet à l'utilisateur de chauffer les parties de son corps et de transférer la chaleur sur des objets. La chaleur générée par son utilisateur le rend plus résistant aux armes blanches.",
+    "roman_name": "Netsu Netsu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 72,
+    "name": "Fruit du Cuistot",
+    "description": "Permet à l'utilisateur de transformer les objets naturels en ingrédients pour être, par la suite, mangés.",
+    "roman_name": "Kuku Kuku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 73,
+    "name": "Fruit de la Mixité",
+    "description": "Permet à l'utilisateur de fusionner avec d'autres personnes.",
+    "roman_name": "Gocha Gocha no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 74,
+    "name": "Fruit de l'Exaltation",
+    "description": "Permet à l'utilisateur de motiver les personnes dans un combat et d'éveiller leur pouvoir latent pour se battre.",
+    "roman_name": "Kubu Kobu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 75,
+    "name": "Fruit du Pousse-Pousse",
+    "description": "Permet à l'utilisateur de manipuler et de se déplacer dans la roche comme de l'argile. Il permet ainsi de créer des tunnels.",
+    "roman_name": "Oshi Oshi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 76,
+    "name": "Fruit du Millet",
+    "description": "Permet à l'utilisateur de générer des dangos puis de rendre servile tout animal qui en consomme. Cela fonctionne sur les utilisateurs des SMILES, mais pas sur les utilisateurs de fruit du démon de type Zoan.",
+    "roman_name": "Kibi Kibi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 77,
+    "name": "Fruit du Temps",
+    "description": "Permet à l'utilisateur de pouvoir voyager dans le futur.",
+    "roman_name": "Toki Toki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 78,
+    "name": "Fruit de la Maturation",
+    "description": "Permet à l'utilisateur de mûrir et de décomposer des objets inanimés. Il peut également faire vieillir des êtres vivants.",
+    "roman_name": "Juku Juku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 79,
+    "name": "Fruit du Parchemin",
+    "description": "Permet à l'utilisateur de créer et de manipuler des parchemins à volonté. Les parchemins ont des propriétés spéciales, comme le pouvoir de stocker des objets ou des attaques à l'intérieur.",
+    "roman_name": "Maki Maki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 80,
+    "name": "Fruit Fumigène",
+    "description": "le corps de celui qui le mange se transforme en fumée. Il peut alors créer de la fumée pour attraper ses adversaires et peut se propulser avec sa fumée pour se déplacer plus vite et ainsi voler.",
+    "roman_name": "Moku Moku no Mi",
+    "type": "Logia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 81,
+    "name": "Fruit des Sables",
+    "description": "Le corps de celui qui le mange se transforme en sable. Il peut contrôler le sable à sa guise et peut assécher l'humidité avec ses mains pouvant ainsi par exemple assécher l'eau présente dans le corps de son adversaire et par conséquent le tuer, envoyer des vagues de sables, des lames de sables et des tempêtes de sable balayant tout sur son passage. Toutefois, son corps redevient solide s'il entre en contact avec un liquide (sang, eau...).",
+    "roman_name": "Suna Suna no Mi",
+    "type": "Logia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 82,
+    "name": "Pyro-Fruit",
+    "description": "le corps de celui qui le mange se transforme en feu. Il peut donc créer des déflagrations surpuissantes et contrôler les températures ambiantes. Il peut aussi utiliser son feu pour se propulser et aller beaucoup plus vite. Cependant, le feu ne résiste pas au magma.",
+    "roman_name": "Mera Mera no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/a3a4f5f2d3b965e3836613b5d3036348.jpg",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 83,
+    "name": "Fulguro-Fruit",
+    "description": "le corps de celui qui le mange se transforme en foudre. Il peut donc se déplacer à la vitesse de la foudre et foudroyer n'importe quoi mis à part les éléments non-conducteurs tels que le caoutchouc. Il peut créer de puissants orages ou des sphères de foudre très puissantes. En combinant le Haki à sa foudre, son utilisateur peut entendre des choses à plus de 1 kilomètre à la ronde. Il peut également s'auto-réanimer s'il tombe inconscient.",
+    "roman_name": "Goro Goro no Mi",
+    "type": "Logia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 84,
+    "name": "Fruit du Givre",
+    "description": "le corps de celui qui le mange se transforme en glace. Il est capable de geler n'importe quoi et quasiment n'importe qui, lancer des vagues surpuissantes d'air glacé qui peuvent tout geler sur leurs passages et est immunisé aux différentiels de température quand celui-ci intensifie le froid ambiant. Son utilisateur peut neutraliser ses opposants en un tour de main ou même geler une vaste étendue d'eau pendant 1 semaine.",
+    "roman_name": "Hie Hie no Mi",
+    "type": "Logia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 85,
+    "name": "Fruit des Ténèbres",
+    "description": "le corps de celui qui le mange se transforme en ténèbres. Il devient capable de modifier la gravité afin d'attirer à lui et d'absorber à peu près n'importe quoi dans un 'trou noir' et de les relâcher par la suite. Il permet aussi d'annuler les pouvoirs des autres utilisateurs de fruit du démon lorsqu'il les touche. Par ailleurs, il s'agit du seul Logia qui ne puisse pas éviter les coups physiques, son utilisateur acquiert dès lors une forte sensibilité à la douleur. À noter qu'il peut absorber le pouvoir du fruit du démon de son possesseur comme Marshall D. Teach le fera avec Barbe Blanche.",
+    "roman_name": "Yami Yami no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/d108706dfcaa5bcf3cddd184ddbb52a5.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 86,
+    "name": "Fruit Luminescent",
+    "description": "le corps de celui qui le mange se transforme en lumière. Il est alors capable de se déplacer et de frapper quasiment n'importe qui rapidement. Il peut également se déplacer à la vitesse de la lumière, émettre des rayons explosifs et lumineux, aveugler ses ennemis et créer des armes constituées de lumière (épée, lance...).",
+    "roman_name": "Pika Pika no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 87,
+    "name": "Fruit du Magma",
+    "description": "le corps de celui qui le mange se transforme en lave. Il peut alors faire fondre tout ce qu'il veut et quasiment n'importe qui. Il peut aussi créer des mains géantes de lave qui, après avoir été lancées dans l'atmosphère, font redescendre les particules volcaniques sur la terre ferme qui peuvent causer de gros dégâts. Le feu est impuissant contre le magma.",
+    "roman_name": "Magu Magu no Mi",
+    "type": "Logia",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 88,
+    "name": "Fruit du Marais",
+    "description": "le corps de celui qui le mange se transforme en boue et devient un marais vivant. Il peut créer des marécages sans fond pour empêcher ses victimes de s'enfuir : plus ses victimes se débattent, plus elles s'enfoncent. Il peut grâce à ce principe les enfermer dans son corps tout en gardant sa taille initiale. Cela permet également de conserver des armes dans son propre corps, comme une mitrailleuse ou une faux, et de les faire sortir pour s'en servir le moment voulu.",
+    "roman_name": "Numa Numa no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 89,
+    "name": "Fruit du Gaz",
+    "description": "le corps de celui qui le mange se transforme en gaz. Ainsi, son corps peut changer de forme à sa guise. Il peut flotter très haut et se faufiler par n'importe quel passage étroit ou impossible d'accès en temps normal. Il semble être immunisé contre certains poisons, peut en créer d'autres comme des gaz hallucinogènes et peut même purifier l'air intoxiqué. Il peut étouffer ses victimes en les privant d'oxygène. Il est également capable de créer un gaz explosif ainsi que de cracher un rayon capable de faire fondre le métal.",
+    "roman_name": "Gasu Gasu no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 90,
+    "name": "Fruit du Flocon",
+    "description": "le corps de celui qui le mange se transforme en neige. Il peut créer un violent blizzard, des barrières solides de neige ou même des igloos. Il peut aussi refroidir ses adversaires par le biais de son corps afin de, par exemple, les mettre en état de stase. Il peut aussi se transformer en 'monstre' de neige, se doter d'une paire d'ailes de neige et transformer ces parties en glace aussi tranchantes et solides que l'acier. Il permet également de donner forme à des créatures de neige (ex : lapins de neige) et de s'en servir comme projectile. Enfin, son utilisateur peut se servir de son pouvoir pour manipuler des pics de neige lui servant de sabres.",
+    "roman_name": "Yuki Yuki no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 91,
+    "name": "Fruit du Bovin, version Bison",
+    "description": "Celui qui le mange devient à moitié bison. Sa vitesse, ses réflexes et sa force sont nettement accrus.",
+    "roman_name": "Ushi Ushi no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 92,
+    "name": "Fruit de l'Humain",
+    "description": "celui qui le mange devient à moitié humain. Son utilisateur étant à la base un renne, celui-ci a attrapé donc une intelligence lui permettant d'acquérir une grande quantité de connaissance. Avant l'ellipse, Chopper devait prendre une Rumble-Ball pour avoir plus de transformation pendant 3 minutes1 (si au bout des 3 minutes il reprenait une Rumble-Ball, il ne contrôlait plus ses transformations et s'il prenait une 3e Rumble-Ball, il devenait un monstre gigantesque mais inconscient, détruisant ennemis comme alliés). Après l'ellipse, il maîtrise parfaitement toutes les transformations et lorsqu'il prend une Rumble-Ball il devient le monstre gigantesque mais en se contrôlant.",
+    "roman_name": "Hito Hito no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/28c479a3d76524452745f40bde7a0c37.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 93,
+    "name": "Fruit du Volatile, version Faucon",
+    "description": "celui qui le mange devient à moitié faucon. Ce pouvoir lui offre une vue perçante, une rapidité surprenante et donne la capacité de voler.",
+    "roman_name": "Tori Tori no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 94,
+    "name": "Fruit Fouisseur",
+    "description": "celui qui le mange devient à moitié taupe. Il peut ainsi creuser de gigantesques galeries dans presque tous les matériaux.",
+    "roman_name": "Mogu Mogu no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 95,
+    "name": "Fruit du Canidé, version Basset",
+    "description": "celui qui le mange devient à moitié basset. Étant donné que son utilisateur est une arme à feu, cela en a fait un être mi-fusil mi-chien.",
+    "roman_name": "Inu Inu no Mi moderu Dakkusufunto",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 96,
+    "name": "Fruit du Canidé, version Chacal",
+    "description": "celui qui le mange devient à moitié chacal. Son agilité en forme hybride est alors nettement supérieure à la moyenne.",
+    "roman_name": "Inu Inu no Mi moderu Jakkaru",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 97,
+    "name": "Fruit du Cheval",
+    "description": "celui qui le mange devient à moitié cheval. Étant donné que son utilisateur est un oiseau, cela en a fait un être mi-oiseau mi-cheval. Ceci le transforme en un genre de pégase.",
+    "roman_name": "Uma Uma no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 98,
+    "name": "Fruit du Félin, version Léopard",
+    "description": "celui qui le mange devient à moitié léopard. Sa force et sa vitesse sont ainsi décuplées de façon impressionnante et avec les techniques du Rokushiki, il peut accéder à une deuxième forme hybride plus petite et plus agile.",
+    "roman_name": "Neko Neko no Mi moderu: Hyō",
+    "type": "Zoan",
+    "technicalFile": "https://images.api-onepiece.com/fruits/8dc6045bb96d784690a36d527cc71f33.jpg",
+    "filename": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 99,
+    "name": "Fruit du Pachyderme",
+    "description": "celui qui le mange devient à moitié éléphant. Étant donné que son utilisateur est une épée, cela en a fait un être mi-épée mi-éléphant. Ayant acquis une conscience et donc une certaine intelligence, elle peut avoir une portée phénoménale.",
+    "roman_name": "Zo Zo no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 100,
+    "name": "Fruit du Canidé, version Loup",
+    "description": "celui qui le mange devient à moitié loup. Sa force et sa rapidité sont plus grandes en forme hybride.",
+    "roman_name": "Inu Inu no Mi moderu: Ōkami",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 101,
+    "name": "Fruit du Bovin, version Girafe",
+    "description": "celui qui le mange devient à moitié girafe. Ses coups de pieds et de nez sont nettement plus puissants (surtout avec le Shigan du Rokushiki).",
+    "roman_name": "Ushi Ushi no Mi moderu Kirin",
+    "type": "Zoan",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 102,
+    "name": "Fruit du Reptile, version Anaconda",
+    "description": "permet à son utilisateur de se transformer comme il lui plait en anaconda : l'utilisateur peut transformer ses cheveux en serpents durs comme l'acier.",
+    "roman_name": "Hebi Hebi no Mi moderu: Anakonda",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 103,
+    "name": "Fruit du Reptile, version Cobra Royal",
+    "description": "permet à l'utilisateur de se transformer comme il lui plait en cobra : il peut lancer des jets de poison mortel, peut transformer ses cheveux en serpent et est insensible au feu.",
+    "roman_name": "Hebi Hebi no Mi moderu: Kingu Kobura",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 104,
+    "name": "Fruit de la Tortue",
+    "description": "celui qui le mange peut se transformer en tortue à la carapace indestructible. Étant aussi résistante que le diamant, elle protège son utilisateur contre, entre autres, les tirs d'armes à feu et les effondrements de bâtiments.",
+    "roman_name": "Kame Kame no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 105,
+    "name": "Fruit de l’Œuf",
+    "description": "permet à l'utilisateur de transformer sa composition corporelle en œuf. À chaque fois qu'il est sérieusement blessé, son utilisateur se régénère dans une forme de plus en plus aboutie de poulet et augmente exponentiellement ses capacités physiques.",
+    "roman_name": "Tama Tama no Mi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 106,
+    "name": "Fruit de la Salamandre, version Axolotl",
+    "description": "celui qui le mange peut se transformer en axolotl, l'utilisateur étant une énorme masse gélatineuse vivante fait d'un produit inflammable, il peut se déplacer bien plus rapidement pour charger ses victimes et se subdiviser en une multitude de petites créatures comme la version originale.",
+    "roman_name": "Sara Sara no Mi moderu: Ahorōtoru",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 107,
+    "name": "Fruit de l'Insecte, version Scarabée-Rhinocéros",
+    "description": "celui qui le mange peut se transformer en scarabée rhinocéros. Il permet à son utilisateur de voler.",
+    "roman_name": "Mushi Mushi no Mi, Moderu Kabutomushi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 108,
+    "name": "Fruit de l'Insecte, version Guêpe",
+    "description": "celui qui le mange peut se transformer en guêpe. Il permet à son utilisateur de voler.",
+    "roman_name": "Mushi Mushi no Mi, Moderu Suzumebachi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 109,
+    "name": "Fruit du Volatile, version Albatros",
+    "description": "celui qui le mange peut se transformer en albatros.",
+    "roman_name": "Tori Tori no Mi Moderu Arubatorosu",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 110,
+    "name": "Fruit du Canidé, version Tanuki",
+    "description": "celui qui le mange peut se transformer en tanuki.",
+    "roman_name": "Inu Inu no Mi Moderu Bake-danuki",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 111,
+    "name": "Fruit du Dinosaure, version Allosaurus",
+    "description": "celui qui le mange peut se transformer en allosaurus.",
+    "roman_name": "Ryū Ryū no Mi Moderu Arosaurusu",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 112,
+    "name": "Fruit du Pachyderme, version Mammouth",
+    "description": "celui qui le mange peut se transformer en mammouth. Il permet d'augmenter la force et l'allonge de son possesseur de manière exceptionnelle. Il a de plus une certaine résistance contre les attaques physiques vu la dureté de sa peau.",
+    "roman_name": "Zō Zō no Mi, moderu Manmosu",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 113,
+    "name": "Fruit du Dinosaure, version Spinosaurus",
+    "description": "celui qui le mange peut se transformer en spinosaurus.",
+    "roman_name": "Ryū Ryū no Mi Moderu Supinosaurusu",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 114,
+    "name": "Fruit du Dinosaure, version Ptéranodon",
+    "description": "celui qui le mange peut se transformer en ptéranodon.",
+    "roman_name": "Ryū Ryū no Mi Kodai-shu Moderu Puteranodon",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 115,
+    "name": "Fruit du Dinosaure, version Brachiosaure",
+    "description": "celui qui le mange peut se transformer en brachiosaure.",
+    "roman_name": "Ryū Ryū no Mi Moderu Burakiosaurusu",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 116,
+    "name": "Fruit du Dinosaure, version Pachycephalosaurus",
+    "description": "celui qui le mange peut se transformer en pachycephalosaurus.",
+    "roman_name": "Ryū Ryū no Mi Moderu Pakikefarosaurusu",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 117,
+    "name": "Fruit du Dinosaure, version Tricératops",
+    "description": "celui qui le mange peut se transformer en tricératops.",
+    "roman_name": "Ryū Ryū no Mi Moderu Torikeratopusu",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 118,
+    "name": "Fruit de l'Araignée, version Rosamygale grauvogeli",
+    "description": "celui qui le mange peut se transformer en rosamygale grauvogeli.",
+    "roman_name": "Kumo Kumo no Mi Moderu Rosamigare Guraubogerī",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 119,
+    "name": "Fruit du Félin, version Tigre à dents de sabre",
+    "description": "celui qui le mange peut se transformer en tigre à dents de sabre.",
+    "roman_name": "Neko Neko no Mi Moderu Sāberutaigā",
+    "type": "Zoan Antique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 120,
+    "name": "Fruit du Félin, version Tigre à dents de sabre",
+    "description": "celui qui le mange peut se transformer en phénix. Il peut se régénérer et également soigner les blessures d'autres êtres vivants.",
+    "roman_name": "Tori Tori no Mi, Moderu Fenikkusu",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 121,
+    "name": "Fruit de l'Humain, version Bouddha",
+    "description": "Celui qui le mange peut se transformer en un imposant Daibutsu (statue Buddha massive en or) qui augmente considérablement sa force physique. Il peut générer des ondes de choc.",
+    "roman_name": "Hito Hito no Mi moderu Daibutsu",
+    "type": "Zoan Mythique",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 122,
+    "name": "Fruit du Poisson, version Dragon azur",
+    "description": "celui qui le mange peut se transformer en dragon azur.",
+    "roman_name": "Uo Uo no Mi, Moderu Seiryū",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/f640990d0f10e51a1bc097ffe6ab511c.jpg",
+    "technicalFile": "https://images.api-onepiece.com/fruits/6fe5dbca99e203388f59e3bfc87a9cfb.png"
+  },
+  {
+    "id": 123,
+    "name": "Fruit du Canidé, version Renard à neuf queues",
+    "description": "celui qui le mange peut se transformer en renard à neuf queues.",
+    "roman_name": "Inu Inu no Mi, Moderu Kyūbi no Kitsune",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 124,
+    "name": "Fruit du Reptile, version Dragon à huit têtes",
+    "description": "celui qui le mange peut se transformer en dragon à huit têtes.",
+    "roman_name": "Hebi Hebi no Mi moderu Yamata no Orochi",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 125,
+    "name": "Fruit de l'Humain, version Onyudo",
+    "description": "celui qui le mange peut se transformer en Onyudo",
+    "roman_name": "Hito Hito no Mi, Moderu: Ōnyūdō",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 126,
+    "name": "Fruit du Canidé, version Loup divin",
+    "description": "celui qui le mange peut se transformer en loup divin.",
+    "roman_name": "Inu Inu no Mi Moderu Ōkuchi no Makami",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/a3b44d115359ee0d7844ba8710ab4e08.png",
+    "technicalFile": "https://images.api-onepiece.com/fruits/1ce591eec2c84ff4bbf5b7f2321c2b0a.png"
+  },
+  {
+    "id": 127,
+    "name": "SMILE de mouton",
+    "description": "il permet de se transformer en mouton.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 128,
+    "name": "SMILE de chauve-souris",
+    "description": "il permet de se transformer en chauve-souris.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 129,
+    "name": "SMILE de gazelle",
+    "description": "il permet de se transformer en gazelle.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 130,
+    "name": "SMILE de souris",
+    "description": "il permet de se transformer en souris.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 131,
+    "name": "SMILE de lion",
+    "description": "il permet de se transformer en lion.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 132,
+    "name": "SMILE de cheval",
+    "description": "il permet de se transformer en cheval.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 133,
+    "name": "SMILE de serpent",
+    "description": "il permet de se transformer en serpent.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 134,
+    "name": "SMILE de lapin",
+    "description": "il permet de se transformer en lapin.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 135,
+    "name": "SMILE d'hippopotame",
+    "description": "il permet de se transformer en hippopotame.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 136,
+    "name": "SMILE de l'alpaga",
+    "description": "il permet de se transformer en alpaga.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 137,
+    "name": "SMILE de l'éléphant",
+    "description": "il permet de se transformer en éléphant.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 138,
+    "name": "SMILE du scorpion",
+    "description": "il permet de se transformer en scorpion.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 139,
+    "name": "SMILE du singe",
+    "description": "il permet de se transformer en singe.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 140,
+    "name": "SMILE du tatou",
+    "description": "il permet de se transformer en tatou.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 141,
+    "name": "SMILE de l'autruche",
+    "description": "il permet de se transformer en autruche.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 142,
+    "name": "SMILE de l'écureuil volant",
+    "description": "il permet de se transformer en écureuil volant.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 143,
+    "name": "SMILE du serpent blanc",
+    "description": "il permet de se transformer en serpent blanc.",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 144,
+    "name": "SMILE du gorille",
+    "description": "il permet de se transformer en gorille",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 145,
+    "name": "SMILE du coq",
+    "description": "il permet de se transformer en coq",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 146,
+    "name": "SMILE de la girafe",
+    "description": "il permet de se transformer en girafe",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 147,
+    "name": "SMILE de la crotale",
+    "description": "il permet de se transformer en crotale",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 148,
+    "name": "SMILE de l'hétérodon",
+    "description": "il permet de se transformer en hétérodon",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 149,
+    "name": "SMILE de caïman",
+    "description": "il permet de se transformer en caïman",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 150,
+    "name": "SMILE de carlin",
+    "description": "il permet de se transformer en carlin",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 151,
+    "name": "Fruit de la Vocalise",
+    "description": "la personne ayant mangé ce fruit se sert de faisceaux sonores convertis en lasers pour tout détruire sur son passage.",
+    "roman_name": "Goe Goe no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 152,
+    "name": "Fruit du Murmure",
+    "description": "Ce fruit permet à l'utilisateur de comprendre le cœur d'un animal ou, en d'autres mots, permet à l'utilisateur de parler aux animaux. Celui-ci ne peut pas contrôler la volonté des animaux.",
+    "roman_name": "Hiso Hiso no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 153,
+    "name": "Fruit du Slash-Slash",
+    "description": "celui qui a mangé ce fruit peut créer des lames d'airs aussi tranchantes que la lame d'un sabre.",
+    "roman_name": "Kama Kama no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 154,
+    "name": "Fruit Incassable",
+    "description": "celui qui le mange devient aussi dur que le roc et peut augmenter la chaleur de membres corporels déterminés pour que son adversaire se brûle en les touchant.",
+    "roman_name": "Kachi Kachi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 155,
+    "name": "Fruit du Sommeil",
+    "description": "Ce fruit permet d'endormir n'importe qui via hypnose. L'utilisateur peut ainsi pénétrer dans la mémoire de la personne endormie pour lui infliger des dégâts comme la perte de mémoire ou les cauchemars.",
+    "roman_name": "Nemu Nemu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 156,
+    "name": "Fruit du Nain",
+    "description": "permet à son utilisateur de rétrécir à volonté.",
+    "roman_name": "Mini Mini no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 157,
+    "name": "Fruit de la Chaleur",
+    "description": "L'utilisateur peut contrôler sa chaleur corporelle et l'augmenter à plus de 10 000 degrés, ce qui lui permet de faire fondre n'importe quoi. Il devient donc insensible au froid.",
+    "roman_name": "Atsu Atsu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 158,
+    "name": "Fruit du Chamquipue",
+    "description": "la personne qui mange ce fruit peut créer des spores empoisonnés. Ces spores peuvent prendre diverses forme (rayons laser, clones, ...). Bien sûr, son utilisateur est immunisé au poison mais son pouvoir est vulnérable au feu.",
+    "roman_name": "Noko Noko no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 159,
+    "name": "Fruit du Filet",
+    "description": "Ce fruit permet à son utilisateur de manger des matériaux de n'importe quel type (feu, métal…) et de créer des filets avec les propriétés de la substance ingérée. Ce fruit est idéal pour capturer les ennemis.",
+    "roman_name": "Ami Ami no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 160,
+    "name": "Fruit de la Copie",
+    "description": "Ce fruit permet à son utilisateur de copier les capacités d'autres personnes en touchant et prenant un coup d'un adversaire.",
+    "roman_name": "Kopi Kopi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 161,
+    "name": "Fruit Touffu-Touffu",
+    "description": "Ce fruit permet à son utilisateur d'accélérer le taux de croissance des plantes et de les contrôler à sa guise. Son utilisateur peut s'en servir principalement pour piéger ou attaquer ses ennemis à l'aide de lianes mais également pour se protéger des attaques ennemies. Il ne peut cependant faire pousser des plantes que dans des environnements où pousse de la végétation.",
+    "roman_name": "Mosa Mosa no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 162,
+    "name": "Fruit Jeune-Jeune",
+    "description": "Ce fruit permet à son détenteur de rajeunir les gens et de retourner les objets à leur état 12 ans auparavant (par exemple : des roches volcaniques retourneront à l'état de lave). Ce pouvoir se manifeste par la création d'une aura rose avec laquelle son utilisateur doit toucher sa cible pour l'activer. Plus l'objet ou la personne est touché par ce pouvoir, plus celle-ci rajeunit. Si le nombre de 'toucher' est supérieur à l'âge de la personne ou de l'objet touché (moins 12 ans à chaque toucher), il/elle disparait définitivement",
+    "roman_name": "Modo Modo no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 163,
+    "name": "Fruit du Fourneau",
+    "description": "Ce fruit permet à son utilisateur de produire et de faire fondre toute structure dans de l'argent. Il peut aussi créer des armes et transformer des êtres vivants en statues d'argent.",
+    "roman_name": "Gutsu Gutsu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 164,
+    "name": "Fruit du Dresseur",
+    "description": "Ce fruit permet de produire une matière verte gluante et de l'enrouler autour du cou de n'importe quel être vivant pour le contrôler par le son de la voix. Le 'collier' est indestructible. Toutefois, il est possible de se protéger de ses effets en se bouchant les oreilles. L'utilisateur a aussi la possibilité d'utiliser son pouvoir sur lui-même pour accroître ses capacités physiques et obéir à ses propres ordres de manière à les exécuter efficacement.",
+    "roman_name": "Peto Peto no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 165,
+    "name": "Fruit du Lien",
+    "description": "Ce fruit permet à son utilisateur de transformer les personnes qu'il touche en d'autres individus, copiant ainsi l'apparence, les capacités et la force de ces derniers. Néanmoins, l'utilisateur ne peut pas se transformer lui-même.",
+    "roman_name": "Kone Kone no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 166,
+    "name": "Fruit du Plus-Plus",
+    "description": "Il permet à son utilisateur d'augmenter diverses capacités d'objet (vitesse, taille, ...) qu'il touche jusqu'à 100 fois la capacité initiale. Son utilisateur peut par extension augmenter ses propres capacités.",
+    "roman_name": "Moa Moa no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 167,
+    "name": "Fruit du Cube",
+    "description": "Il permet à son utilisateur de transformer tout ce qu'il touche en cubes (sol, navires, humains) et de les contrôler. Ces cubes assemblés peuvent former des structures plus complexes.",
+    "roman_name": "Kyubu Kyubu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 168,
+    "name": "Fruit de la Magie",
+    "description": "Ce fruit permet à son utilisateur d'utiliser des techniques magiques ressemblant aux tours effectués par des magiciens lors des spectacles.",
+    "roman_name": "Maji Maji no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 169,
+    "name": "Nitro-Fruit",
+    "description": "Ce fruit confère à son utilisateur les propriétés de nitroglycérine : à chaque claquement des mains, une explosion se produit.",
+    "roman_name": "Nito Nito no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 170,
+    "name": "Fruit de l'amour",
+    "description": "Ce fruit permet à son utilisateur de manipuler toutes personnes en les faisant tomber amoureuses. Il réalise cette manipulation en envoyant un rayon de lumière sur ses victimes via les ailes de sa tenue de paon.",
+    "roman_name": "Hore Hore no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 171,
+    "name": "Fruit du Passe-Muraille",
+    "description": "Ce fruit permet à son utilisateur de passer dans des objets solides pour s'échapper ou pour traverser les murs.",
+    "roman_name": "Nuku Nuke no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 172,
+    "name": "Fruit du Tchou-Tchou",
+    "description": "Ce fruit permet à son utilisateur de transformer ses mains et ses pieds en roues. L'utilisateur devient donc un 'homme-wagon'.",
+    "roman_name": "Koro Koro no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 173,
+    "name": "Fruit des Chaines",
+    "description": "Ce fruit permet à son utilisateur de produire et de contrôler des chaines à volonté.",
+    "roman_name": "Jara Jara no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 174,
+    "name": "Fruit du Camouflage",
+    "description": "Ce fruit permet à son utilisateur de produire et de créer de la peinture pour camoufler des gens ou des objets.",
+    "roman_name": "Iro Iro no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 175,
+    "name": "Fruit de l'Or",
+    "description": "Ce fruit permet à son utilisateur de manipuler l'or à volonté. Il peut transformer des objets solides en or et aussi les faire fondre. Il peut recouvrir son corps d'or, jusqu'à se transformer en golem géant en or massif. Il peut aussi faire des bâtiments en or et les contrôler.",
+    "roman_name": "Gol Gol no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 176,
+    "name": "Fruit de la Chance",
+    "description": "Ce fruit permet à son utilisateur de voler la chance des personnes qu'il touche et de l'utiliser pour soi.",
+    "roman_name": "Raki Raki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 177,
+    "name": "Fruit des Vagues de Chaleur",
+    "description": "Ce fruit permet à son utilisateur de générer des vagues de chaleurs.",
+    "roman_name": "Nepa Nepa no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 178,
+    "name": "Fruit des Choses",
+    "description": "Ce fruit permet à son utilisateur de cloner toute chose, tel que l'utilisateur lui-même, d'autres personnes ou encore des objets.",
+    "roman_name": "Mono Mono no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 179,
+    "name": "Fruit de la Vision",
+    "description": "Ce fruit lui permet de créer des illusions temporaires ayant la forme de la personne souhaitée.",
+    "roman_name": "Bijo Bijo no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 180,
+    "name": "Fruit du Tir",
+    "description": "Ce fruit permet à son utilisateur de transformer toute chose en arme à feu.",
+    "roman_name": "Ute Ute no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 181,
+    "name": "Fruit du Potelé",
+    "description": "Ce fruit permet à son utilisateur d'ajouter de la graisse dans le corps de ses adversaires afin de les immobiliser.",
+    "roman_name": "Pocha Pocha no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 182,
+    "name": "Fruit du Brûleur",
+    "description": "Ce fruit permet à son utilisateur de transformer sa jalousie en chaleur et en flammes.",
+    "roman_name": "Bana Bana no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 183,
+    "name": "Fruit du Livreur",
+    "description": "Ce fruit permet à son utilisateur d'envoyer un objet sur n'importe quelle cible à portée de vue de l'utilisateur.",
+    "roman_name": "Deri Deri no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 184,
+    "name": "Fruit de la Dissolution",
+    "description": "Ce fruit permet à son utilisateur de dissoudre toute chose en liquide, y compris lui-même, en tirant des rayons dans les yeux de ses adversaires.",
+    "roman_name": "Dero Dero no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 185,
+    "name": "Fruit de la Bombe",
+    "description": "Ce fruit permet à son utilisateur de transformer toute chose en bombe.",
+    "roman_name": "Basu Basu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 186,
+    "name": "Fruit de la Ferraille",
+    "description": "Ce fruit permet à son utilisateur de manipuler et de combiner des objets tels que le fer et les armes.",
+    "roman_name": "Gasha Gasha no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 187,
+    "name": "Fruit de la Nécromancie",
+    "description": "Ce fruit permet à son utilisateur de reproduire l'apparence des défunts.",
+    "roman_name": "Nibi Nibi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 188,
+    "name": "Fruit de la Dissolution",
+    "description": "le corps de celui qui le mange se transforme en liquide.",
+    "roman_name": "Toro Toro no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 189,
+    "name": "Fruit du Papier",
+    "description": "le corps de celui qui le mange se transforme en morceaux de papier. Il permet notamment d'esquiver facilement les attaques et même de produire des cartes, voire des livres. Très efficace face à l'électricité mais vulnérable au feu.",
+    "roman_name": "Pasa Pasa no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 190,
+    "name": "Fruit du Bonbon",
+    "description": "le corps de celui qui le mange se transforme en sirop. Il peut aussi contenir dans son corps toute masse solide le traversant (épées, poings, pieds, ...). Seulement, il est vulnérable s'il est atteint par une matière farineuse.",
+    "roman_name": "Ame Ame no Mi",
+    "type": "Logia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 191,
+    "name": "Fruit du Volatile, version Aigle",
+    "description": "Très similaire au Fruit du Volatile version Faucon",
+    "roman_name": "Tori Tori no Mi moderu Washi",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 192,
+    "name": "Fruit du Bovin, version Lama",
+    "description": "Permet de se transformer en lama",
+    "roman_name": "Ushi Ushi no Mi moderu Lama",
+    "type": "Zoan",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 193,
+    "name": "Fruit du Canidé, version Raton Laveur",
+    "description": "Permet de se transformer en Tanuki, une créature mythologique japonaise.",
+    "roman_name": "Inu Inu no Mi Moderu Bake-danuki",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 194,
+    "name": "Fruit de la Chauve-Souris, version Vampire",
+    "description": "Permet à son utilisateur de se transformer en vampire, une créature horrifique légendaire. Ce fruit permet d'absorber la vitalité des gens en les faisant vieillir.",
+    "roman_name": "Batto Batto no Mi Moderu Banpaia",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 195,
+    "name": "Fruit du Volatile, version Nue",
+    "description": "Permet à son utilisateur de se transformer en nue.",
+    "roman_name": "Tori Tori no Mi, Moderu Nue",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 196,
+    "name": "Hito Hito no Mi, modèle Nika",
+    "description": "Le Hito Hito no Mi, modèle Nika est un Fruit du Démon de type Zoan Mythique qui permet à son utilisateur de se transformer en Nika, le \"Dieu du Soleil\".",
+    "roman_name": "Hito Hito no Mi, Moderu: Nika",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 197,
+    "name": " Fruit du démon artificiel de Végapunk",
+    "description": "",
+    "type": "Smile",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 198,
+    "name": "Fruit du Ciboulot",
+    "description": "Le Nomi Nomi no Mi est un Fruit du Démon de type Paramecia qui permet au cerveau de celui qui l'a mangé de se développer indéfiniment au fur et à mesure qu'il ingère de nouvelles connaissances, transformant celui qui l'a mangé en Homme-Cerveau",
+    "roman_name": "Nomi Nomi no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 199,
+    "name": "Fruit de la force",
+    "description": "C'est un fruit qui permet à celui qui l'a mangé de d'acquérir une force herculéenne.",
+    "roman_name": "Riki Riki no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 200,
+    "name": "Fruit de la téléportation",
+    "description": "C'est un fruit du démon qui permet à celui qui l'a mangé de se téléporter et de téléporter n'importe quoi d’un endroit à l’autre",
+    "roman_name": "Wapu Wapu no mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 201,
+    "name": "Fruit de l'île",
+    "description": "C'est un fruit du démon qui lui permet à son utilisateur de ne faire plus qu'un avec une île entière, devenant ainsi un Homme Insulaire",
+    "roman_name": "Shima Shima no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 202,
+    "name": "Fruit du gigantisme",
+    "description": "C'est un fruit du démon qui permet à son utilisateur d'augmenter sa taille, faisant de lui un Homme Gigantifié",
+    "roman_name": "Deka Deka no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 203,
+    "name": "Fruit du Glouglou",
+    "description": "C'est un fruit du démon qui permet à son utilisateur de contrôler l'alcool, faisant de lui un Homme-Alcool",
+    "roman_name": "Gabu Gabu no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 204,
+    "name": "Fruit de la maladie",
+    "description": "C'est un fruit du démon qui permet à celui qui l'a mangé de créer n'importe quelle forme de maladie contagieuse et virulante.",
+    "roman_name": "Shiku Shiku no Mi",
+    "type": "Paramecia",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 205,
+    "name": "Fruit du cheval, modèle Pégase",
+    "description": "C'est un fruit du démon qui permet à l'utilisateur de se transformer en un cheval ailé volant ou en cheval ailé volant hybride",
+    "roman_name": "Uma Uma no Mi, modèle Pégase",
+    "type": "Zoan Mythique",
+    "filename": "https://images.api-onepiece.com/fruits/",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 206,
+    "name": "Fruit du Phœnix",
+    "description": "Il permet de se transformer en Phénix ou en une forme hybride",
+    "roman_name": "Tori Tori no Mi",
+    "type": "Zoan Mythique",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  },
+  {
+    "id": 207,
+    "name": "Fruit du Félin, modèle Léopard",
+    "description": "Il permet à son utilisateur de se transformer en léopard ou en un hybride humain-léopard.",
+    "roman_name": "Neko Neko no Mi, modèle Léopard",
+    "type": "Zoan Mythique",
+    "filename": "",
+    "technicalFile": "https://images.api-onepiece.com/fruits/"
+  }
+]
